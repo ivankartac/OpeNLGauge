@@ -1,0 +1,19 @@
+{
+    "task_name": "dialogue response generation",
+    "extra_task_info": "Dialogue participants are discussing interesting topics, facts and trivia.",
+    "include_source": false,
+    "include_knowledge": true,
+    "aspect_name": "groundedness",
+    "aspect_definition": "Given the fact that the response is conditioned on, groundedness indicates how well does the response use that fact.",
+    "steps": [
+        "Carefully read the context knowledge.",
+        "Read the response and analyze its groundedness with respect to the context knowledge.",
+        "If the response contains any error that negatively affects its groundedness, identify its exact location (specific word or phrase), explain why it is considered an error, and determine the severity of the error.",
+        "Finally, provide an overall score for the groundedness of the response. The score should be a label on the following scale (lowest to highest): 'Unacceptable', 'Poor', 'Fair', 'Good', 'Excellent'. The score 'Unacceptable' indicates that the response does not use the provided knowledge at all, while 'Excellent' indicates that the response uses the knowledge well."
+    ],
+    "negative_aspect_examples": ["coherence", "grammaticality"],
+    "extra_rules": [
+        "If there are no facts in the provided knowledge, you should output 'No Facts' and provide 'Excellent' score.",
+        "The response doesn't have to use all facts from the provided knowledge. It is acceptable if the response uses:\n* only part of the knowledge\n* an additional knowledge which is not contradictory to the provided knowledge."
+    ]
+}

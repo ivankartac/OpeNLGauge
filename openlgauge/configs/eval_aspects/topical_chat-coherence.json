@@ -1,0 +1,15 @@
+{
+    "task_name": "dialogue response generation",
+    "extra_task_info": "Dialogue participants are discussing interesting topics, facts and trivia.",
+    "include_source": true,
+    "include_knowledge": false,
+    "aspect_name": "coherence",
+    "aspect_definition": "Extent to which the response serves as a valid continuation of the preceding conversation.",
+    "steps": [
+        "Carefully read the dialogue history.",
+        "Read the response and analyze its coherence with respect to the dialogue history.",
+        "If the response contains any error that negatively affects its coherence, identify its exact location (specific word or phrase), explain why it is considered an error, and determine the severity of the error.",
+        "Finally, provide an overall score for the coherence of the response. The score should be a label on the following scale (lowest to highest): 'Unacceptable', 'Poor', 'Fair', 'Good', 'Excellent'. The score 'Unacceptable' indicates that the response is very incoherent with respect to dialogue history, while 'Excellent' indicates that the response is perfectly coherent with respect to dialogue history."
+    ],
+    "negative_aspect_examples": ["factuality"]
+}

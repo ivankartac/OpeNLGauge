@@ -1,0 +1,45 @@
+### Instructions
+Your task is to evaluate an output of summarization task, where the model was instructed to write a short summary of a news article.
+{% if include_source %}Based on the given article and the generated summary, identify errors in the summary with respect to {{ aspect_name }} (described below).{% else %}Identify errors in the generated summary with respect to {{ aspect_name }} (described below).{% endif %}
+For each error, determine its severity on a scale from 1 to 5, where 1 is the least severe and 5 is the most severe.
+
+Definition of {{ aspect_name|capitalize }}:
+{{ aspect_definition }}
+
+Rules:
+Do not make assumptions and do not bring in external knowledge that is not present in the provided context.
+You should identify only those errors that are related to the {{ aspect_name }} of the summary! Ignore other aspects like {{ negative_aspect_examples|join(' or ') }}!
+If there are no errors related to {{ aspect_name }} in the summary, output 'No Error' and provide 'Excellent' as the overall score.
+{% if extra_rules %}{{ join('\n')|extra_rules }}{% endif %}
+
+Steps:
+{% for step in steps -%}
+{{ loop.index }}. {{ step }}
+{% endfor %}
+{% if include_source %}
+{% for key, value in inputs.items() -%}
+{% if value %}
+### {{ key }}
+{{ value }}
+{% endif %}
+{% endfor %}
+{% endif %}
+{% for key, value in outputs.items() -%}
+### {{ key }}
+{{ value }}
+{% endfor %}
+
+### Output format:
+Generate your output exactly in this format:
+```
+Error 1:
+Location: <location of the error - the exact word or phrase in the response>
+Explanation: <explanation for the error, including the reason why it is considered {{ aspect_name }} issue>
+Severity: <integer from 1 to 5>
+
+Error 2:
+...
+
+Overall score: <one of: Unacceptable, Poor, Fair, Good, Excellent>
+Explanation of the score: <explanation of the score>
+```

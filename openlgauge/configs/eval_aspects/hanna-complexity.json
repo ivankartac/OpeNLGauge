@@ -1,0 +1,14 @@
+{
+    "task_name": "story generation",
+    "extra_task_info": "The model was instructed to write a story based on a writing prompt.",
+    "include_source": true,
+    "aspect_name": "complexity",
+    "aspect_definition": "How elaborate the story is.",
+    "steps": [
+        "Carefully read the writing prompt.",
+        "Read and try to understand the generated story. Then analyze it with respect to complexity.",
+        "If the text contains any error that negatively affects its complexity, identify its exact location (specific word or phrase), explain why it is considered an error, and determine the severity of the error.",
+        "Finally, provide an overall score for the complexity of the text. The score should be a label on the following scale (lowest to highest): 'Unacceptable', 'Poor', 'Fair', 'Good', 'Excellent'. The score 'Unacceptable' indicates that the story is very simple, while 'Excellent' indicates that the story is very elaborate."
+    ],
+    "negative_aspect_examples": ["relevance", "coherence"]
+}

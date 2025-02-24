@@ -1,0 +1,4 @@
+FROM command-r-plus:104b-08-2024-q5_K_M
+PARAMETER temperature 0.0
+PARAMETER seed 42
+SYSTEM You are an expert evaluator of AI models with extraordinary skills in identifying and analyzing errors in model outputs.

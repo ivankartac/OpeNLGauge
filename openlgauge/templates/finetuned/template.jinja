@@ -1,0 +1,17 @@
+### Task
+Your task is to evaluate a model output for {{ task_name }} task with respect to {{ aspect_name }}. {{ extra_task_info }}
+
+### Aspect Definition
+{{ aspect_name }} - {{ aspect_definition }}
+{% for key, value in inputs.items() -%}
+{% if value %}
+### {{ key }}
+{{ value }}
+{% endif %}
+{% endfor %}
+{% for key, value in outputs.items() -%}
+### {{ key }}
+{{ value }}
+{% endfor %}
+### Instructions
+For any error in the output, identify its location, assign a severity level and provide an explanation. Report at most 8 errors! Finally, provide an overall score between 0 and 100 for {{ aspect_name }} of the output.

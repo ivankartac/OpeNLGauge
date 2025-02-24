@@ -1,0 +1,14 @@
+{
+    "task_name": "summarization",
+    "extra_task_info": "The model was instructed to write a short summary of a news article.",
+    "include_source": true,
+    "aspect_name": "relevance",
+    "aspect_definition": "The extent to which the summary captures important information of the article. A relevant summary should include all and only important information from the article.",
+    "steps": [
+        "Carefully read the article.",
+        "Read the summary and compare it with the article with respect to relevance.",
+        "If the summary contains any error that negatively affects its relevance, identify its exact location (specific word or phrase), explain why it is considered an error, and determine the severity of the error.",
+        "Finally, provide an overall score for the relevance of the summary. The score should be a label on the following scale (lowest to highest): 'Unacceptable', 'Poor', 'Fair', 'Good', 'Excellent'. The score 'Unacceptable' indicates that the summary has low relevance with respect to the article, while 'Excellent' indicates that the summary is very relevant with respect to the article."
+    ],
+    "negative_aspect_examples": ["coherence", "fluency"]
+}

@@ -1,0 +1,44 @@
+### Instructions
+Your task is to evaluate a generated story. The model was instructed to write a story based on a writing prompt.
+Based on the given writing prompt and the generated story, identify errors in the story with respect to {{ aspect_name }} (described below).
+For each error, determine its severity on a scale from 1 to 5, where 1 are small imperfections that only slightly affect the overall quality of the story, and 5 are critical issues that make the story unusable.
+Never report more than 8 errors. If there are more, report only the 8 most important ones.
+
+Definition of {{ aspect_name|capitalize }}:
+{{ aspect_definition }}
+
+Rules:
+Do not make assumptions and do not bring in external knowledge not present in the provided context.
+Identify only the errors related to the {{ aspect_name }} of the text. Do not consider other aspects like {{ negative_aspect_examples|join(' or ') }}!
+If there are no errors related to {{ aspect_name }} in the text, you should output 'No Error' and provide 'Excellent' score.
+{%- if extra_rules -%}{{ join('\n')|extra_rules }}{% endif %}
+
+Steps:
+{% for step in steps -%}
+{{ loop.index }}. {{ step }}
+{% endfor %}
+{% for key, value in inputs.items() -%}
+{% if value %}
+### {{ key }}
+{{ value }}
+{% endif %}
+{% endfor %}
+{% for key, value in outputs.items() -%}
+### {{ key }}
+{{ value }}
+{% endfor %}
+
+### Output format:
+Generate your output exactly in this format:
+```
+Error 1:
+Location: <location of the error - the exact word or phrase in the response>
+Explanation: <explanation for the error, including the reason why it is considered {{ aspect_name }} issue>
+Severity: <integer from 1 to 5>
+
+Error 2:
+...
+
+Overall score: <one of: Unacceptable, Poor, Fair, Good, Excellent>
+Explanation of the score: <explanation of the score>
+```

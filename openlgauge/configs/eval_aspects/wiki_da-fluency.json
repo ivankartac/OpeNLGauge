@@ -1,0 +1,13 @@
+{
+    "task_name": "text simplification",
+    "extra_task_info": "The model was instructed to simplify a source text.",
+    "include_source": false,
+    "aspect_name": "fluency",
+    "aspect_definition": "The extent to which the text is grammatical, natural and easy to understand.",
+    "steps": [
+        "Read the simplified text and analyze it with respect to fluency.",
+        "If the simplified text contains any error that negatively affects its fluency, identify its exact location (specific word or phrase), explain why it is considered an error, and determine the severity of the error.",
+        "Finally, provide an overall score for the fluency of the simplified text. The score should be a label on the following scale (lowest to highest): 'Unacceptable', 'Poor', 'Fair', 'Good', 'Excellent'. The score 'Unacceptable' indicates that the simplified text is very disfluent, while 'Excellent' indicates that the simplified text is perfectly fluent."
+    ],
+    "negative_aspect_examples": ["factuality", "relevance"]
+}

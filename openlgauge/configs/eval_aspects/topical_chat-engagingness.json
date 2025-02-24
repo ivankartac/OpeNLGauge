@@ -1,0 +1,15 @@
+{
+    "task_name": "dialogue response generation",
+    "extra_task_info": "Dialogue participants are discussing interesting topics, facts and trivia.",
+    "include_source": true,
+    "include_knowledge": false,
+    "aspect_name": "engagingness",
+    "aspect_definition": "The extent to which the response captures and maintains the user's interest, encouraging further interaction. Engaging responses contain opinions, preferences, thoughts or interesting facts.",
+    "steps": [
+        "Carefully read the dialogue history.",
+        "Read the response and analyze its engagingness with respect to the dialogue history.",
+        "If the response contains any error that negatively affects its engagingness, identify its exact location (specific word or phrase), explain why it is considered an error, and determine the severity of the error.",
+        "Finally, provide an overall score for the engagingness of the response. The score should be a label on the following scale (lowest to highest): 'Unacceptable', 'Poor', 'Fair', 'Good', 'Excellent'. The score 'Unacceptable' indicates that the response is very dull or generic, while 'Excellent' indicates that the response is very interesting or engaging."
+    ],
+    "negative_aspect_examples": ["factuality", "grammaticality"]
+}

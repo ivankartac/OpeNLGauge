@@ -1,0 +1,30 @@
+{
+    "max_seq_length": 4096,
+    "per_device_batch_size": 4,
+    "gradient_accumulation_steps": 4,
+    "warmup_steps": 115,
+    "num_train_epochs": 1,
+    "learning_rate": 2e-4,
+    "weight_decay": 0.01,
+    "lr_scheduler_type": "linear",
+    "lora_config": {
+        "rank": 16,
+        "alpha": 32,
+        "dropout": 0,
+        "bias": "none",
+        "target_modules": [
+            "q_proj",
+            "k_proj",
+            "v_proj",
+            "o_proj",
+            "gate_proj",
+            "up_proj",
+            "down_proj"
+        ]
+    },
+    "seed": 3407,
+    "dataset_num_proc": 2,
+    "packing": false,
+    "logging_steps": 1,
+    "optimizer": "adamw_8bit"
+}

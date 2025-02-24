@@ -1,0 +1,14 @@
+{
+    "task_name": "text simplification",
+    "extra_task_info": "The model was instructed to simplify the given source text.",
+    "include_source": true,
+    "aspect_name": "meaning preservation",
+    "aspect_definition": "The extent to which the meaning in the simplified text is preserved in the source text.",
+    "steps": [
+        "Carefully read the source text.",
+        "Read the simplified text and compare it with the source text with respect to meaning preservation.",
+        "If the simplified text contains any error that negatively affects its meaning preservation, identify its exact location (specific word or phrase), explain why it is considered an error, and determine the severity of the error.",
+        "Finally, provide an overall score for the meaning preservation of the simplified text. The score should be a label on the following scale (lowest to highest): 'Unacceptable', 'Poor', 'Fair', 'Good', 'Excellent'. The score 'Unacceptable' indicates that the simplified text does not preserve the meaning of the source text at all, while 'Excellent' indicates that the simplified text preserves the meaning perfectly."
+    ],
+    "negative_aspect_examples": ["fluency", "coherence"]
+}

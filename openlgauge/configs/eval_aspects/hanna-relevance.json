@@ -1,0 +1,14 @@
+{
+    "task_name": "story generation",
+    "extra_task_info": "The model was instructed to write a story based on a writing prompt.",
+    "include_source": true,
+    "aspect_name": "relevance",
+    "aspect_definition": "The extent to which the story is relevant to the writing prompt.",
+    "steps": [
+        "Carefully read the writing prompt.",
+        "Read and try to understand the generated story. Then analyze it with respect to relevance.",
+        "If the text contains any error that negatively affects its relevance, identify its exact location (specific word or phrase), explain why it is considered an error, and determine the severity of the error.",
+        "Finally, provide an overall score for the relevance of the text. The score should be a label on the following scale (lowest to highest): 'Unacceptable', 'Poor', 'Fair', 'Good', 'Excellent'. The score 'Unacceptable' indicates that the text is not related to the prompt at all, while 'Excellent' indicates that the text is strongly related to the prompt."
+    ],
+    "negative_aspect_examples": ["fluency", "complexity"]
+}

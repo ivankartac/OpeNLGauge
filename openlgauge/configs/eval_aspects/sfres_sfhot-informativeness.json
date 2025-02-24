@@ -1,0 +1,14 @@
+{
+    "task_name": "data-to-text",
+    "extra_task_info": "The model was instructed to generate a response based on a dialogue act in structured format.",
+    "include_source": true,
+    "aspect_name": "informativeness",
+    "aspect_definition": "The extent to which the response provides all information specified in the dialogue act.",
+    "steps": [
+        "Carefully read the dialogue act.",
+        "Read the generated response and compare it with the dialogue act with respect to informativeness.",
+        "If the response contains any error that negatively affects its informativeness, identify its exact location (specific word or phrase), explain why it is considered an error, and determine the severity of the error.",
+        "Finally, provide an overall score for the informativeness of the response. The score should be a label on the following scale (lowest to highest): 'Unacceptable', 'Poor', 'Fair', 'Good', 'Excellent'. The score 'Unacceptable' indicates that the response is completely uninformative, while 'Excellent' indicates that the response is highly informative."
+    ],
+    "negative_aspect_examples": ["fluency", "coherence"]
+}

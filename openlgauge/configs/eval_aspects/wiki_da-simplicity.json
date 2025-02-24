@@ -1,0 +1,14 @@
+{
+    "task_name": "text simplification",
+    "extra_task_info": "The model was instructed to simplify the given source text.",
+    "include_source": true,
+    "aspect_name": "simplicity",
+    "aspect_definition": "The extent to which the simplified text is easier to understand compared to the source text.",
+    "steps": [
+        "Carefully read the source text.",
+        "Read the simplified text and compare it with the source text with respect to simplicity.",
+        "If the simplified text contains any error that negatively affects its simplicity, identify its exact location (specific word or phrase), explain why it is considered an error, and determine the severity of the error.",
+        "Finally, provide an overall score for the simplicity of the simplified text. The score should be a label on the following scale (lowest to highest): 'Unacceptable', 'Poor', 'Fair', 'Good', 'Excellent'. The score 'Unacceptable' indicates that the simplified text is harder to understand compared to the source text, while 'Excellent' indicates that the simplified text significantly easier to understand."
+    ],
+    "negative_aspect_examples": ["meaning preservation"]
+}

@@ -1,0 +1,13 @@
+{
+    "task_name": "summarization",
+    "extra_task_info": "The model was instructed to write a short summary of a news article.",
+    "include_source": false,
+    "aspect_name": "coherence",
+    "aspect_definition": "The extent to which the summary is well-structured and organized, presenting information in a logical order that flows naturally from sentence to sentence. Coherent summary forms a unified body of information and makes it easy to understand the main ideas.",
+    "steps": [
+        "Read the summary and analyze it with respect to coherence.",
+        "If the summary contains any error that negatively affects its coherence, identify its exact location (i.e. specific word or phrase), explain why it is considered an error, and determine the severity of the error.",
+        "Finally, provide an overall score for the coherence of the summary. The score should be a label on the following scale (lowest to highest): 'Unacceptable', 'Poor', 'Fair', 'Good', 'Excellent'. The score 'Unacceptable' indicates that the summary is very incoherent, while 'Excellent' indicates that the summary is perfectly coherent."
+    ],
+    "negative_aspect_examples": ["factuality", "relevance"]
+}
