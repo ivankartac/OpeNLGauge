@@ -64,7 +64,7 @@ ollama create eval_nemotron -f openlgauge/configs/ollama/modelfile_nemotron
 To run the evaluation, use `openlgauge/run_ollama.py` script. For example, to evaluate on the QAGS dataset for factual consistency with `eval_nemotron` model, use the following command:
 
 ```bash
-python openlgauge/eval_zero_shot.py --model eval_nemotron --template openlgauge/templates/zero_shot/qags.jinja --data openlgauge/data/qags.json --aspect-config openlgauge/configs/qags-factual_consistency.json
+python openlgauge/eval_zero_shot.py --model eval_nemotron --template openlgauge/templates/zero_shot/qags.jinja --data openlgauge/data/meta_eval/qags.json --aspect-config openlgauge/configs/eval_aspects/qags-factual_consistency.json --output-dir openlgauge/results/openlgauge_ollama
 ```
 
 For other models, see the modelfiles in `openlgauge/configs/ollama`. Prompt templates for zero-shot evaluation on all datasets evaluated in the paper can be found in `openlgauge/templates/zero_shot`. Configurations of different evaluation aspects are in `openlgauge/configs/eval_aspects`.
@@ -84,7 +84,7 @@ python openlgauge/train.py --dataset data/training/train_ensemble.json --templat
 To run the inference with the fine-tuned model, use the `eval_finetuned.py` script. For example, to evaluate factual consistency of summaries in the QAGS dataset with the fine-tuned model, use the following command:
 
 ```bash
-python openlgauge/eval_finetuned.py --model openlgauge/model --config openlgauge/configs/inference_config.json --template openlgauge/templates/zero_shot/qags.jinja --data openlgauge/data/qags.json --aspect-config openlgauge/configs/qags-factual_consistency.json --output-dir openlgauge/results/openlgauge_ft --retry
+python openlgauge/eval_finetuned.py --model openlgauge/model --config openlgauge/configs/inference_config.json --template openlgauge/templates/zero_shot/qags.jinja --data openlgauge/data/qags.json --aspect-config openlgauge/configs/eval_aspects/qags-factual_consistency.json --output-dir openlgauge/results/openlgauge_ft --retry
 ```
 
 ## Meta-evaluation
