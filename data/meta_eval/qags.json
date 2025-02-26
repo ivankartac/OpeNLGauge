@@ -7,7 +7,9 @@
     "outputs": {
       "Summary": "` the typical western diet is heavily processed and sugar ridden,' says author sarah flower. A diet rich in oily fish, whole grains, lean protein, fruit and vegetables should provide enough nutrients. Ms flower believes we are still not doing enough."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-1",
@@ -17,7 +19,9 @@
     "outputs": {
       "Summary": "Aidy boothroyd will be the man in charge of the under 20s this time. Toulon tournament runs from may 27 to june 7. Gareth southgate's squad finished fourth last may."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-10",
@@ -27,7 +31,9 @@
     "outputs": {
       "Summary": "Professor ninian peckitt is accused of punching a patient in the head. Witnesses said he had `digitally manipulated' the patient's face as part of hospital treatment. He faces being struck off the medical register after being accused of failing three of his patients."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-100",
@@ -37,7 +43,9 @@
     "outputs": {
       "Summary": "Floyd mayweather snr has refused to respond to criticism from manny pacquiao's trainer freddie roach. Roach has blasted mayweather snr calling him a `terrible cornerman' ahead of the may mega-fight with pacquiao in las vegas on may 2. Floyd mayweather jnr gave fans a look of his private jet on wednesday."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-101",
@@ -47,7 +55,9 @@
     "outputs": {
       "Summary": "Mario draghi yelled `end the ecb dictatorship!' Before being bundled off by two heavyset guards, while a third threw himself in front of mr draghi. Police said the woman was 21 and from hamburg. Miss witt said she was associated with feminist activist group femen."
     },
-    "score": 0.5
+    "score": {
+      "factual consistency": 0.5
+    }
   },
   {
     "id": "cnndm-102",
@@ -57,7 +67,9 @@
     "outputs": {
       "Summary": "Around 56,000 dogs were treated for poisoning by vets between 2010 and 2014. Kennel club says seemingly harmless foods such as hot cross buns and onions can be killers. Kennel, garlic and leeks can cause life-threatening anaemia."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-103",
@@ -67,7 +79,9 @@
     "outputs": {
       "Summary": "Richard clements is believed to have been mowing grass outside his property in suffolk. His family managed to drag him from the pond and made frantic efforts to save him but he was pronounced dead at the scene. A man, in his 60s, has died."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-104",
@@ -77,7 +91,9 @@
     "outputs": {
       "Summary": "The lion king was shot by adoring dad barles charkley on the site, who is based in baltimore, maryland, the video stars his toddler daughter viktoria. Mr charkley posted the brief video which has more than four million views to his facebook page. It's the death of the lion's father, mufasa."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-105",
@@ -87,7 +103,9 @@
     "outputs": {
       "Summary": "Jonny bucknell, 58, was enjoying meal in council chamber when rival, theo blackwell spotted him and alerted other councillors. He was forced to put down his cutlery when a labour rival was banned in the chamber. Says he wants a rule change so he can eat a roast dinner at council meetings."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-106",
@@ -97,7 +115,9 @@
     "outputs": {
       "Summary": "Bahar mustafa, student union welfare and diversity officer at goldsmiths university in london, were invited to discuss `diversifying the curriculum' but they were shocked when an organiser told white people and men `not to come' as it was only open to bme black and minority ethnic women. Non-binary is a term used to describe people who do not consider male or female. The ban on men and white students' union has been accused of sexism."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-107",
@@ -107,7 +127,9 @@
     "outputs": {
       "Summary": "Aston villa and reading failed to prevent spectators encroaching on the pitch. Both clubs have until thursday to respond to the charge. Villa beat bradford 3-0 in the fa cup quarter-final at villa park."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-108",
@@ -117,7 +139,9 @@
     "outputs": {
       "Summary": "Arsenal beat manchester united 3-2 at turf moor. Arsene wenger's side have won at sunderland, newcastle, manchester city and now burnley. Aaron ramsey and olivier giroud scored in the 12th minute."
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-109",
@@ -127,7 +151,9 @@
     "outputs": {
       "Summary": "Residents of celoron, new york, has called it `by far my most unsettling sculpture' and six years after it was unveiled in 2009. But the statue of lucille ball was so offensive a facebook page called we love lucy! Get rid of this statue was launched. Louis tussaud's waxwork museum in great yarmouth was bought to the world in january after tv presenter jonathan ross posted pictures of the works online."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-11",
@@ -137,7 +163,9 @@
     "outputs": {
       "Summary": "The 28 minute movie in which a woman dressed as a school girl, has sex with a man in a vintage train carriage was filmed on board the epping ongar. Locals in the area were shocked to learn the location, a favourite with families and children, had been rented out by its bosses to american adult film company brazzers. The storyline has been viewed more than 235,000 times."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-110",
@@ -147,7 +175,9 @@
     "outputs": {
       "Summary": "Claudio giardiello, 46, is said to have killed his lawyer lorenzo alberto claris appiani, 37, and his co-defendant before shooting dead judge fernando ciampi in an act of revenge `against those that ruined me' prosecutors said the attack was carried out with `cold premeditation' fourth victim had no visible injuries and is thought to have died of a heart attack. Giardiello likely used a false id pass to enter court. After his killing spree, giardiello's former colleagues and accountant"
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-111",
@@ -157,7 +187,9 @@
     "outputs": {
       "Summary": "Almost half of french 18 to 25 years olds have consumed alcohol with the sole aim of getting drunk, compared to 33 per cent ten years ago. Health chiefs say the uk is responsible for causing a sharp rise in the number of youngsters who binge-drink. French health minister marisol touraine wants to impose fines and prison sentences for inciting binge drinking."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-112",
@@ -167,7 +199,9 @@
     "outputs": {
       "Summary": "The family rift in france's national front came after he infuriated his daughter marine, with a series of racist and anti-semitic remarks last week. Mr le pen had repeated his claim that the holocaust was `a detail of history' and had also praised france's wartime leader marshal petain to replace him in the regional elections. Now party founder le pen has said he will not stand in."
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-113",
@@ -177,7 +211,9 @@
     "outputs": {
       "Summary": "Her secret service-provided `scooby' van motored from concord to boston logan international airport. She arrived in time to take a 7:00 us airways shuttle to washington, d.c. on the way, to catch a flight with 12 first class seats. Clinton and her entourage flew on a commercial us airways flight on tuesday."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-114",
@@ -187,7 +223,9 @@
     "outputs": {
       "Summary": "Hina shamim, 21, died close to the university of kingston in london last night. Her bmw m3 sportscar knocked her down before she was knocked down. One of the children is believed to have suffered a broken wrist."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "cnndm-115",
@@ -197,7 +235,9 @@
     "outputs": {
       "Summary": "Ed miliband's son daniel has declared it `the best' in his house. It is the fourth time they have appeared on screen during the campaign. Comment was made during itv interview on itv's good morning britain."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-116",
@@ -207,7 +247,9 @@
     "outputs": {
       "Summary": "Kris wardle, who lives in leicester, thought his world was complete when he married his long-term girlfriend katrina in 2011 with her son mark, acting as best man. The hgv truck driver would be a widower after his wife was killed in a frenzied knife attack by now 21-year-old mark after a row over his cannabis use. Kris and tina wardle fell in love in 2002 and had planned a life together."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-117",
@@ -217,7 +259,9 @@
     "outputs": {
       "Summary": "Stephen dodd took asif bodi and abubakar bhula at anfield last month. The game was captured on a mobile phone camera by liverpool supporter stephen dodd. He posted pictures of two muslim supporters to half-time in fa cup match."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "cnndm-118",
@@ -227,7 +271,9 @@
     "outputs": {
       "Summary": "Jayson mcdonald was found hiding under a bed in amsterdam in the netherlands. They were arrested as part of operation captura, a drive launched in 2006. Mcdonald had been hiding in spain but it is believed he based himself in spain. Monk is wanted on suspicion of conspiracy to supply cannabis."
     },
-    "score": 0.75
+    "score": {
+      "factual consistency": 0.75
+    }
   },
   {
     "id": "cnndm-119",
@@ -237,7 +283,9 @@
     "outputs": {
       "Summary": "Michael shepard, 35, was released from prison by officials who voted to give him a second chance. When asked about the sex offender notification he gave to his neighbors, he claimed that he had been in prison for a `romeo and juliet romance' with a preacher's daughter. He is accused of horrific sexual attacks on seven children, both boys and girls."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-12",
@@ -247,7 +295,9 @@
     "outputs": {
       "Summary": "Karen buckley, 24, disappeared from the glasgow club in the early hours of sunday morning without collecting her coat after telling friends she was going to the loo. Cctv cameras filmed her talking to a man outside the club before getting into his car and travelling to his flat in kelvindale. But fears over the irish student's safety were heightened yesterday after police revealed they had tracked down the man and he is not being treated as a suspect."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-120",
@@ -257,7 +307,9 @@
     "outputs": {
       "Summary": "Mario balotelli shared on social media to prove he was too ill to play against blackburn on wednesday night. Brendan rodgers will admit he ignored the warnings about balotelli. Balotelli has no future at anfield."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-121",
@@ -267,7 +319,9 @@
     "outputs": {
       "Summary": "Bali nine member myuran sukumaran has requested to spend his last days in church with his family. His final request comes as images showed a haunting self portrait painted by sukumaran in his cell, depicting the artist shot through the heart. Painting is a self-portrait of sukumaran with a bullet hole through his heart."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-122",
@@ -277,7 +331,9 @@
     "outputs": {
       "Summary": "British boxer nicola adams is hoping to become a double olympic gold medallist in rio next year. Adams will return to an english ring for the first time since her london 2012 triumph at the national championships in liverpool next week. Adams said she has no plan to retain her crown."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-123",
@@ -287,7 +343,9 @@
     "outputs": {
       "Summary": "Manchester united no 1 de gea has been linked with a summer return to his homeland. Iker casillas claims he is willing to fight for the no 1 jersey he went on to make his own as a 16-year-old in 1996. The spain international has spent his career at the bernabeu."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-124",
@@ -297,7 +355,9 @@
     "outputs": {
       "Summary": "David silva was caught in the face by an elbow from west ham's cheikhou kouyate. The spain international received around eight minutes of treatment on the field at the etihad stadium before being carried off on a stretcher and taken to hospital. Manchester city face fa cup finalists aston villa on saturday."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-125",
@@ -307,7 +367,9 @@
     "outputs": {
       "Summary": "The 75-year-old man believes he stood on the saltwater crocodile while looking from his golf ball near the 11th hole at the palmer sea reef golf course. The victim received a deep laceration to his shin and puncture wounds to his calf. Palmer united party leader clive palmer gave the victim some advice on how to avoid a similar injury in future."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-126",
@@ -317,7 +379,9 @@
     "outputs": {
       "Summary": "Bill parker, 34, of gulfport was mowing his lawn while at his family home last sunday when he thought a rock hit him in the face not realizing it was a metal fence wire. A ct scan revealed the metal wire had been shot up his left nostril and was lodged in parker's sinus cavity beneath his eye socket and next to his jaw hinge. Dr haffey removed the wire with a simple sinus surgery which took 20 minutes."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-127",
@@ -327,7 +391,9 @@
     "outputs": {
       "Summary": "Jesper blomqvist helped coach youngsters from manchester united foundation's street red project. The swede says he was on a bridge over a week ago and is back in manchester. He says he is `sectioned' and wants to get a shower."
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-128",
@@ -337,7 +403,9 @@
     "outputs": {
       "Summary": "Fireball is the big brand of liquor in america. Retail sales more than doubled last year. `` fireball is number one, we,'' fireball cinnamon whisky."
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-129",
@@ -347,7 +415,9 @@
     "outputs": {
       "Summary": "Ivan milat was convicted of butchering seven young people between 1989 and 1992 and burying their bodies in the belanglo state forest in southern nsw. He has been locked up in goulburn's supermax jail for almost 20 years. Shipsey says he has released the book of his uncle's letters for `those who want to read the facts' shipsey is a compilation of 94 notes from milat to his eldest nephew alistair shipsey."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-13",
@@ -357,7 +427,9 @@
     "outputs": {
       "Summary": "Historians and scientists believe the isolated area may have been built to attract people instead imprisoning them. The fortress is located about 3,800 km from moscow near the mongolian border. Experts say the island was built during the period of the uighur khaganate."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-130",
@@ -367,7 +439,9 @@
     "outputs": {
       "Summary": "Djokovic started shouting at his backroom team after he lost the second set of the miami open to murray. Djokovic grabbed a towel from the ball boy who was caught up in the crossfire. Tennis champion novak djokovic issued an apology to the youngster and his parents."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-131",
@@ -377,7 +451,9 @@
     "outputs": {
       "Summary": "Three more of hillary clinton's `everyday americans' have been revealed to have strong links to the democrat party - including one who could be set to support a rival bid for the white house. Julie stauch and sean bagniewski and vidhya reddy all appear in on the video announcing she is running for president - the secretary of state's `plan' for this year. Bagniewski, who lost in 2013, is also said to be in talks with martin o'malley's people."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-132",
@@ -387,7 +463,9 @@
     "outputs": {
       "Summary": "The bodies were taken off the ship thursday night by a team of fbi crime scene investigators. Authorities will not say how the couple died. The ship departed tampa, florida, on sunday for a two-week cruise in the southern caribbean."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-133",
@@ -397,7 +475,9 @@
     "outputs": {
       "Summary": "Fabio borini appeared as a second-half substitute in liverpool's 2-0 win against newcastle at anfield on monday. The former sunderland striker made the day out at adventure park go ape at delamere forest park on tuesday. Fabio borini has scored once in 17 appearances for liverpool this season."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-134",
@@ -407,7 +487,9 @@
     "outputs": {
       "Summary": "Brian gemmell, a former captain in the army intelligence corps, said mi5 spy chiefs ordered him to `stop digging' when he reported a possible paedophile ring at the northern ireland children's' home. He spoke out during a meeting with victim richard kerr, who claimed he was sexually abused by politicians and other senior men at dolphin square apartment complex in pimlico and elm guest house. Campaigners claim mr kerr's account is between vip paedophile rings in london and belfast."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-135",
@@ -417,7 +499,9 @@
     "outputs": {
       "Summary": "Jose mourinho believes manchester united will not be weakened by injury problems. Louis van gaal revealed he will be without marcos rojo, phil jones, michael carrick and daley blind at stamford bridge. Chelsea face chelsea in the premier league on tomorrow."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-136",
@@ -427,7 +511,9 @@
     "outputs": {
       "Summary": "Jack johnson beat tommy burns to win world heavyweight title in 1908. Former world heavyweight champion james j jeffries retired undefeated in 1904. Johnson was black and a black man had never won sport."
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-137",
@@ -437,7 +523,9 @@
     "outputs": {
       "Summary": "Raheem sterling has rejected a new $ 100,000-a-week contract with liverpool. The 20-year-old could lower his value by buying-out the last year of his current deal for $ 1.7 million. Liverpool insist they will hold firm and not be forced into selling sterling in the close season."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-138",
@@ -447,7 +535,9 @@
     "outputs": {
       "Summary": "American teri o'neil, 30, recorded the video when she was six months pregnant with her son liam. The 15-month-old girl arches her back while filming at her home. Her father also has pregnant walk in the background."
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-139",
@@ -457,7 +547,9 @@
     "outputs": {
       "Summary": "Lorenzo simon, 34, of west midlands and his girlfriend michelle bird used their friend michael spalding for slave labour before simon killed him and dismembered his body. Simon was found guilty of assisting an offender and sentenced to two and a half years at birmingham crown court today and bird. Police have now released cctv footage showing her stuffed into a suitcase and threw it into a canal, a court heard."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-14",
@@ -467,7 +559,9 @@
     "outputs": {
       "Summary": "In november 1942, ss city of cairo was sunk by a german u-boat. The sinking was in a book about the event. The ship sank to england in 2011."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-140",
@@ -477,7 +571,9 @@
     "outputs": {
       "Summary": "Stacey eden, 23, stood up for the muslim woman and her partner. Ms eden switched on the video camera on her mobile phone to record the vile rant before rushing to muslim couple's defence with a fiery spray. Hafeez bhatti was racially abused along with his wife on a sydney train."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-141",
@@ -487,7 +583,9 @@
     "outputs": {
       "Summary": "Around 20 million people in the uk are expected to suffer hayfever symptoms this summer, up a third from last year. By 2030 that figure is expected to surge to 31.8 million sufferers. A 33 per cent rise in the number of people struck by hayfever this year could occur."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-142",
@@ -497,7 +595,9 @@
     "outputs": {
       "Summary": "Danny willett's augusta national was on a simulator at doncaster golf range. The pair met in the first round of the walker cup in 2007. Willett is the first debutant to win since last month's wgc-cadillac championship."
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-143",
@@ -507,7 +607,9 @@
     "outputs": {
       "Summary": "Rangers have promised to probe claims mike ashley has grabbed control of the club's badges. Sports direct tycoon had been given security over the icons and logos as part of the $ 5million loan handed to the previous gers board in january. Newcastle owner was now the official owner of the light blues trademarks."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-144",
@@ -517,7 +619,9 @@
     "outputs": {
       "Summary": "Lucy garrod, 27, developed an ulcer known as a corneal abrasion, caused by a bacterial infection which grew under her right lens. Miss garrod had been wearing contact lenses since she was 15 with no problems, but woke up one day with an itchy and irritable right eye. Doctors said the ulcer was growing on the surface of her eye."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-145",
@@ -527,7 +631,9 @@
     "outputs": {
       "Summary": "Around 15 animals ran away from a farm in schodack, upstate new york, on thursday and then swam across the hudson river. They then started running down the thruway, a series of toll roads which link up the major cities in the state, including buffalo and new york city. Three men hired by the farm were cleared to open fire friday afternoon in a stream in woods in the town of coeymans."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-146",
@@ -537,7 +643,9 @@
     "outputs": {
       "Summary": "Archbishop of brisbane's anglican archbishop said he supported father paul kelly in his calls for the homosexual advance defence to be removed from queensland common law. The defence means a murder charge may be reduced to manslaughter if the defendant came on' to them, and the killing was in self-defence. Dr aspinall also appealed to violence at recent anti-islam rallies."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-147",
@@ -547,7 +655,9 @@
     "outputs": {
       "Summary": "Daughters of sir paul's first wife linda died of cancer four years previously. Sir paul and ms mills had ordered a media blackout of the event in ireland. Sir paul, then 59, went through a bitter and messy divorce in 2008."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-148",
@@ -557,7 +667,9 @@
     "outputs": {
       "Summary": "Psv eindhoven won ajax's first eredivisie title since 2008. Memphis depay scored the title with three games to spare. Louis van gaal's chief scout won the eredivisie championship."
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-149",
@@ -567,7 +679,9 @@
     "outputs": {
       "Summary": "Under the pact, no public holiday is triggered when anzac day falls on a saturday, as it does this year. The agreement was designed to provide uniformity of public holidays across the nation. If easter, christmas, australia day, the queen's birthday or labour day fall on a weekend, a holiday is granted on a weekday."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-15",
@@ -577,7 +691,9 @@
     "outputs": {
       "Summary": "Nicola sturgeon is a prime minister and miliband's coaching team. The women' tv debate debate it was the women. David cameron is a coaching team for cameron."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "cnndm-150",
@@ -587,7 +703,9 @@
     "outputs": {
       "Summary": "Butterfly wings are covered by thousands of microscopic scales split into two to three layers. The 51-year-old uses a modified microscope and a camera to capture the detail of the butterfly's wing pattern. It is a species of swallowtail butterfly native to eastern north america."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-151",
@@ -597,7 +715,9 @@
     "outputs": {
       "Summary": "Charlotte s, 94, was an ss guard in the nazi death camps during the second world war. Only three were investigated by prosecutors in germany for their roles as accomplices to mass murder. There were 3,700 women who served as guards at hitler's death camps."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-152",
@@ -607,7 +727,9 @@
     "outputs": {
       "Summary": "Assistant commissioner mark rowley said isis is trying to `pick up' fighters among `the vulnerable, people with violent backgrounds, very young people and those with mental health issues' mr rowley issued warning of new tactics in `chaotic' terror attacks with al qaeda. Isis execution jihadi john is being used to recruit network of `misfits' mr rowley said : `we still have groups... we have to be concerned.' He said attack on london teenager brustholm ziamani is"
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-153",
@@ -617,7 +739,9 @@
     "outputs": {
       "Summary": "Cher and turks were killed during the 100th anniversary of the 100th killings. They were on the eve of the killings that killed one million armenians. `` mother armenia'' is the first genocide of armenia."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "cnndm-154",
@@ -627,7 +751,9 @@
     "outputs": {
       "Summary": "Producers of `` star wars : the force awakens'' unveiled a nearly two-minute trailer for the movie. Han and chewie are pop culture's most famous stories of the week. Cheryl's first set of female quintuplets in 1969 is in texas."
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-155",
@@ -637,7 +763,9 @@
     "outputs": {
       "Summary": "Arsene wenger wants cesc fabregas to be shown the `respect he deserves' when he returns to the emirates stadium in the blue of chelsea on sunday. Wenger called for the removal of a fabregas banner from the ken friar bridge. Wenger hopes fans will give him a good reception."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-156",
@@ -647,7 +775,9 @@
     "outputs": {
       "Summary": "Michael vaughan, alec stewart and andrew strauss are three former captains bidding to lead england's reform. Paul downton was sacked as managing director of cricket at surrey. The trio played 133 tests in the new county cricket season."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-157",
@@ -657,7 +787,9 @@
     "outputs": {
       "Summary": "Robin van persie has missed manchester united's last six games. Louis van gaal said he did not expect the striker to be fit enough to return for sunday's game against manchester city at old trafford. Marouane fellaini has scored 10 goals in the fa cup against aston villa."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-158",
@@ -667,7 +799,9 @@
     "outputs": {
       "Summary": "Alice kovach-suehn, 56, from apopka, was arrested last friday and charged with elderly neglect after police say they found the man in her care weighing only 89lbs. Kovach-suehn told officers he was being starved and never allowed to move his hands and his knees were locked together. Kovach-suehn was arrested after she brought half-starved man in care to florida hospital."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-159",
@@ -677,7 +811,9 @@
     "outputs": {
       "Summary": "The group of six completed the drive in three days crossing two canadian provinces including quebec and ontario, as well as five u.s. states - new york, pennsylvania, indiana and kentucky. Two friends and their four sons traveled from montreal, quebec to eat at the original home of kentucky fried chicken in corbin, kentucky. For three of the sons, it was the first time they had tasted kfc."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-16",
@@ -687,7 +823,9 @@
     "outputs": {
       "Summary": "Nasa scientist ellen stofan : `` i think we're going to have strong indications of life beyond earth within a decade'' scientists have found evidence or indications of water on a number of celestial bodies. `` we know how to look,'' nasa chief scientist says. The hubble space telescope may not be `` star trek'' - type extraterrestrials."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-160",
@@ -697,7 +835,9 @@
     "outputs": {
       "Summary": "Darren bent opened the scoring for watford against the 10 men of watford. The final act was the first victory in seven championship games. Adlene guedioura scored with 15 minutes to go to his watford team-mate lee grant in watford's box. Ighalo is joined by team-mate troy deeney."
     },
-    "score": 0.75
+    "score": {
+      "factual consistency": 0.75
+    }
   },
   {
     "id": "cnndm-161",
@@ -707,7 +847,9 @@
     "outputs": {
       "Summary": "As orthodox easter sunday was held, thousands of rockets were aimed at church towers in the aegean island of chios by rival parishioners in their traditional `mock war' severe injuries are rare in vrontados. Vrontados is in a league of its own when the custom dates back to the 19th century. Easter in the uk is seen with chocolate eggs and a roast lamb."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-162",
@@ -717,7 +859,9 @@
     "outputs": {
       "Summary": "The arrests were made in minneapolis and san diego but there is no threat to public safety. Three men who were arrested in the twin cities were already known to authorities. At least six men were stopped from boarding a plane to istanbul with hamza ahmed at jfk airport after riding on a greyhound bus with him from minneapolis to new york in november. Ahmed was indicted for lying to the fbi during a terrorism investigation."
     },
-    "score": 0.75
+    "score": {
+      "factual consistency": 0.75
+    }
   },
   {
     "id": "cnndm-163",
@@ -727,7 +871,9 @@
     "outputs": {
       "Summary": "Charlene wall jeffs, 58, has multiple wives within the sect - nine. She claims the church has `become even more disturbing than it was under warren' lyle jess' legal wife, charlene jeffs, says church has become worse under his control. Lyle jeffs has officially filed for divorce from her husband in utah."
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-164",
@@ -737,7 +883,9 @@
     "outputs": {
       "Summary": "Tiny montana outpost was established in the 1860s by miners looking for gold and silver, but it was devastated by fire around 1912 and deserted a few years later. Now the u.s. bureau of land management is offering free food, housing a job to people live in garnet and work as a new tourist stop. Garnet is said to be haunted by some of its former residents."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-165",
@@ -747,7 +895,9 @@
     "outputs": {
       "Summary": "Oil painting measures nine inches by seven - of 16th century renaissance master el greco. But selling price suggests the untitled, undated and unsigned painting may have been done by artist himself. Auctioneer richard bromell bought it because he believed it was a depiction of saint peter."
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-166",
@@ -757,7 +907,9 @@
     "outputs": {
       "Summary": "A picture of bahar mustafa, 27, student union welfare and diversity officer at goldsmiths university in london shows her posing in front if a `no white men' sign while pretending to cry. Non-binary is a term used to describe people who do not consider themselves exclusively male or female. The handmade poster also refers to a ban on `cis' or cisgender men."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-167",
@@ -767,7 +919,9 @@
     "outputs": {
       "Summary": "The body of a new york woman was left dangling from a fire escape for more than an hour sunday after she hung herself, police say. One man said he awoke to find the woman's body hanging outside his apartment. Witnesses say she thought the body was fake and believed it was a `halloween prank."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-168",
@@ -777,7 +931,9 @@
     "outputs": {
       "Summary": "Matt stopera misplaced his cellphone in new york city and the only clue. Mr stopera said he asked himself, `who is this man, and his' li's pictures show up in matt's icloud and photostream. Mr hongjun lost his iphone in china."
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-169",
@@ -787,7 +943,9 @@
     "outputs": {
       "Summary": "The new trailer for `` jurassic world'' came out monday morning. The movie is first in the rampaging-dino franchise since `` jurassic park iii'' pratt's scientist chris pratt is the movie's new trailer. Fans on twitter are to show the movie."
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-17",
@@ -797,7 +955,9 @@
     "outputs": {
       "Summary": "A woman armed with guns and hand grenades was shot dead as she tried to attack istanbul's police headquarters on wednesday. The attack comes a day after turkish prosecutor mehmet selim kiraz, 46, died in hospital after members of the revolutionary people's liberation party-front stormed a courthouse and took him hostage. It is not known who fired the fatal shots."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-170",
@@ -807,7 +967,9 @@
     "outputs": {
       "Summary": "Prices have fallen by largest amount in almost a decade as supermarkets continue to slash the cost of milk, vegetables and meat as they compete with each other. On the high street clothes and footwear have become even more affordable - with prices dropping by around 7.8 per cent in the last 12 months. This is the biggest fall in prices in a single year since records began nine years ago in 2006."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-171",
@@ -817,7 +979,9 @@
     "outputs": {
       "Summary": "A new york grand jury's decision not to indict a white police officer in the death of a black man. `` this one was on film,'' he says. Blacks are about 30 % more likely to be pulled over by police than whites."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-172",
@@ -827,7 +991,9 @@
     "outputs": {
       "Summary": "Sofia, the daughter of chelsea fc owner abramovich's five offspring with second wife irina, revealed she had been bullied by users of the site about her appearance and weight. Sofia has said she is trying to turn the negative comments into a positive for her life. Sofia has found the daughter at the end of some cruel criticism."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-173",
@@ -837,7 +1003,9 @@
     "outputs": {
       "Summary": "At least 54 bodies have been recovered in the huge rescue operation. There are 13 members of the crew are still missing after the trawler tipped over when a fishing net was pulled in. The russian freezer trawler was unstable because of empty fuel tanks and a lack of ballast."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-174",
@@ -847,7 +1015,9 @@
     "outputs": {
       "Summary": "Psychologists from goldsmiths university of london studied more than 13,000 twins aged nine to 16 from six countries, including the uk, canada, germany, russia and the us. Our willingness to learn is significantly influence by our genes, according to a study by goldsmiths university in london and ohio state. Genetics and non-shared-environment factors were found to have the largest effect on the children's motivation to learn."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-175",
@@ -857,7 +1027,9 @@
     "outputs": {
       "Summary": "The pair were caught on camera at langham creek high school, in houston on tuesday. The mother, who has not been identified, was reportedly angry with the girl because she had allegedly been bullying her daughter, reports channel 2. The mother and her teenage daughter have been arrested after a video of them fighting with a student at a high school was posted online."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-176",
@@ -867,7 +1039,9 @@
     "outputs": {
       "Summary": "Barcelona legend carles puyol is believed to be training with a view to ending his retirement from football for a end-of-career spell in qatar or the us or qatar. Puyol won six la liga titles and played at barca. The 36-year-old retired last may after 15 years at barca."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-177",
@@ -877,7 +1051,9 @@
     "outputs": {
       "Summary": "Dave rickard, 72, and his wife brenda, 67, were on holiday in north wales. Daisy fell 10ft from a quay into the sea. She was feared to have drowned."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-178",
@@ -887,7 +1063,9 @@
     "outputs": {
       "Summary": "Police in manchester have issued a warning to parents over the game, known as `sleeper', which officers say is potentially fatal. The child is believed to have had underlying health problems and is expected to make a full recovery. The youngster was treated in hospital on wednesday after falling victim to a prank when he was suffocated until he passed out."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-179",
@@ -897,7 +1075,9 @@
     "outputs": {
       "Summary": "Researchers sequenced the microbiomes of yanomami people living in a remote amazon village in venezuela who had not had previous contact with non-yanomami. There are about 26,000 yanomami living in brazil and 15,000 in venezuela, mostly in federally protected reserves near rivers and in remote mountains. Yanomami people harbor microbiomes with highest diversity of bacteria and genetic functions ever reported in a human group."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-18",
@@ -907,7 +1087,9 @@
     "outputs": {
       "Summary": "Patrick bamford named the championship player of the year at the football league awards. The middlesbrough striker received the award at the gala ceremony in london. Mk dons teenager dele alli picked up the sir tom finney award."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-180",
@@ -917,7 +1099,9 @@
     "outputs": {
       "Summary": "Mother of two lindsey norman spotted the image of jesus in the hot cross buns. She noticed the resemblance in a six pack of $ 1 buns she had purchased from sainsbury's in peterborough, cambridgeshire. It has yet to receive any bids at the california couple."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-181",
@@ -927,7 +1111,9 @@
     "outputs": {
       "Summary": "Fox is developing a two-hour remake of the 1975 cult classic to be directed. The special will be filmed in advance and not air live. The special is also produced by fox 21 television studios."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-182",
@@ -937,7 +1123,9 @@
     "outputs": {
       "Summary": "A 13-year-old girl has been gunned down by isis snipers in damascus. Zeynab daghastani, 13, was shot and killed as she made her way through the streets of the al-yarmouk camp. Zeynab was shot dead on the evening of april 7 last week. Thousands of palestinians have been trying to escape yarmouk since the area fell under isis control on april 4."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-183",
@@ -947,7 +1135,9 @@
     "outputs": {
       "Summary": "This week's attack on garissa university college is al-shabaab's fifth major assault in kenya. The thursday massacre was the most deadly assault so far, with 147 dead. Al-shabaab says its attacks are to protest the more than 3,500 kenyan soldiers."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-184",
@@ -957,7 +1147,9 @@
     "outputs": {
       "Summary": "Scientists studying the latest genetic, fossil and archaeological evidence claim neanderthals suffered from a wide range of diseases that still plague us today. They have found evidence that suggests our prehistoric cousins would have been infected by diseases such as tuberculosis, whooping cough, encephalitis and the common cold. It has been around 30,000 years since the ancestors of modern-day humans are thought to have wiped out the ancient neanderthals."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-185",
@@ -967,7 +1159,9 @@
     "outputs": {
       "Summary": "The filmmakers said they plan to use the latest digital camera technology as they venture from the planet's ice caps to ocean depths to deserts and remote forests. The show will focus on the earth's last wilderness areas and the animals living there. The eight-part series will take four years to make and is planned for a 2019 debut for netflix customers."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-186",
@@ -977,7 +1171,9 @@
     "outputs": {
       "Summary": "Researchers studied stone tools used by people in the early ahmarian culture and the protoaurignacian culture, living in south and west europe and west asia around 40,000 years ago. They found the human tools were no more effective than neanderthal-created tools of the same era. Scientists believed that innovation in weapons enabled humans to spread out of africa to europe."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-187",
@@ -987,7 +1183,9 @@
     "outputs": {
       "Summary": "Claim made by embalmers, who have developed experimental techniques to maintain the look and feel of the communist revolutionary's body. They prefer to preserve the body's shape, weight, colour and flexibility. Stalin's remains were working in a lab dedicated to the former leader's corpse."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-188",
@@ -997,7 +1195,9 @@
     "outputs": {
       "Summary": "A state investigation launched following complaints from two large agencies that supply water to arid farmland in the central valley and to millions of residents as far south as san diego. Delta farmers don't deny using as much water as they need, but they have been asked to prove their legal rights to it. Gov. Jerry brown says he has senior water rights."
     },
-    "score": 0.5
+    "score": {
+      "factual consistency": 0.5
+    }
   },
   {
     "id": "cnndm-189",
@@ -1007,7 +1207,9 @@
     "outputs": {
       "Summary": "Emanuel, a former white house chief of staff notorious for his management style, was forced to campaign across the city to beat cook county commissioner garcia. The mayoral runoff was the first since the city changed the way it conducts elections about 20 years ago. Emanuel had about 56 per cent of four other candidates in a february election."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-19",
@@ -1017,7 +1219,9 @@
     "outputs": {
       "Summary": "John truong thought he was helping his sister have a nice night out with her boyfriend. He ended up an unknowing accomplice to a bizarre abduction. Authorities say chang and nguyen incapacitated the child's mother at her home in des moines, washington, bound her with plastic ties and then took off the toddler, leaving the mother locked in a cupboard."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-190",
@@ -1027,7 +1231,9 @@
     "outputs": {
       "Summary": "An independent review of rolling stone's story about an alleged violent gang rape said the story fell apart because of `basic, even routine' failures of journalism. Professors at the columbia university graduate school of journalism issued a 12,000-word autopsy of the discredited story sunday night. Rolling stone bosses commissioned the review after contributing editor sabrina erdely, was called into serious question."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-191",
@@ -1037,7 +1243,9 @@
     "outputs": {
       "Summary": "Mary todd lowrance, 49, a teacher at moises e molina high school, turned herself into dallas independent school district police on thursday morning. Miller said the teacher had been in a relationship with the student for a couple of months. Officers learned of the alleged relationship after lowrance disclosed details to a coworker."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-192",
@@ -1047,7 +1255,9 @@
     "outputs": {
       "Summary": "Kevin gameiro put defending champions sevilla into last four of europa league. But sevilla boss unai emery said it was one of the keeper's goalkeeper. Zenit couldn't score in the end with sevilla two points up."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-193",
@@ -1057,7 +1267,9 @@
     "outputs": {
       "Summary": "The filipino icon will be put through at the wild card gym in los angeles. Pacquiao has promised to be on time - and after mayweather was just two hours late for his workout workout. Floyd mayweather jnr takes his turn."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-194",
@@ -1067,7 +1279,9 @@
     "outputs": {
       "Summary": "Chloe the wombat has mistaken her new echidna friend for a pillow at taronga zoo's grounds in sydney. She recently moved into her new digs alongside a couple of echidnas. In a video posted to instagram by taronga zoo, chloe is seen trying to take a nap in the mud on one of the echidnas."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-195",
@@ -1077,7 +1291,9 @@
     "outputs": {
       "Summary": "City have won the last four at manchester derby this sunday. Manuel pellegrini's side have not lost five in a row to city. Louis van gaal's side are currently in the premier league."
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-196",
@@ -1087,7 +1303,9 @@
     "outputs": {
       "Summary": "Mackenzi miller allegedly struck and killed trinity backmann on february 28 in apopka, florida. Her blood alcohol content level was over the legal driving limit. Miller was booked into the orange county jail on thursday after an argument with her mother when she was killed."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-197",
@@ -1097,7 +1315,9 @@
     "outputs": {
       "Summary": "Cairns man has been charged with administering a dangerous drug to a minor and refused access to his sick daughter. Now he has spoken out in the hope he can persuade the government to rethink their cannabis laws. Despite his claims it improved her condition, the father, who is battling a rare form of cancer called neuroblastoma."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-198",
@@ -1107,7 +1327,9 @@
     "outputs": {
       "Summary": "Charlotte cobbald, 17, ran away from her father, saying `let me die' before she collapsed in a field and her family called 999. Paramedics fought to save her and took her in an ambulance to hospital, but charlotte died from the effects of the drug. At the time she died in august, charlotte was visiting the family farm in suffolk while on day release from a mental health unit."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-199",
@@ -1117,7 +1339,9 @@
     "outputs": {
       "Summary": "Francis coquelin was drafted back into the arsenal squad from a loan spell at charlton in december, after last weekend's 1-0 victory over manchester united. The frenchman has made 23 appearances for arsenal this season. Arsenal will be out to beat chelsea for first time since 2011."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-2",
@@ -1127,7 +1351,9 @@
     "outputs": {
       "Summary": "A chiropractor in iowa has surrendered his license to practice and admitted to swapping services for sex and performing exorcisms on some patients. Manuel also recommended that patients stop taking medication no longer exist before he can resume practicing chiropractic in the state. The disgraced chiropractor received a perfect five out of five stars in patient satisfaction."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-20",
@@ -1137,7 +1363,9 @@
     "outputs": {
       "Summary": "Kevin sinfield scored his first try of the season against castleford. Leeds rhino scored unbeaten run against tigers to six matches. Ryan hall was sent to leeds rhino for first time in his career."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "cnndm-200",
@@ -1147,7 +1375,9 @@
     "outputs": {
       "Summary": "The museum opened in 1928 to house george v's collection of `big game trophies' all 62 items have been placed in storage - including an indian tiger, a leopard, skins and tusks. The estate reopened its doors to the public on saturday. A new sign outside the sandringham museum said it was a `potential legal question mark' about the room."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-201",
@@ -1157,7 +1387,9 @@
     "outputs": {
       "Summary": "Mario balotelli is the premier league player who receives most abuse online. Arsenal's daniel sturridge received 1,600, more than 60 per cent of which related to sexual orientation. Almost a third of the abusive posts were racist."
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-202",
@@ -1167,7 +1399,9 @@
     "outputs": {
       "Summary": "Qpr boss chris ramsey believes sunday's west london derby is more crucial to his side than it is to chelsea. The rs could start sunday's derby just one point off the foot of the table. Ramsey scored in qpr's 3-3 draw with aston villa on tuesday."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-203",
@@ -1177,7 +1411,9 @@
     "outputs": {
       "Summary": "Aaron bee was wanted by lincolnshire police over an alleged domestic violence and assault. He was arrested in a cafe after posing outside police stations over two weeks. He has now been jailed for eight months."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-204",
@@ -1187,7 +1423,9 @@
     "outputs": {
       "Summary": "The orioles and chicago white sox will be closed to the public. The game at oriole park at camden is a doubleheader for may 28. The game should be played without fan admittance."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-205",
@@ -1197,7 +1435,9 @@
     "outputs": {
       "Summary": "The six-strong gang dressed in high-vis jackets were captured on cctv working throughout thursday night. The footage reveals they returned again on saturday - spending another eight hours cleaning out the jewels and cash left there for safekeeping. They used wheelie bins to remove pounds worth of jewellery and valuables from the safe."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-206",
@@ -1207,7 +1447,9 @@
     "outputs": {
       "Summary": "Heidi bretscher, 28, found a police officer who gave her a ride back to mile 17. At mile 19, bretscher was leading the women's race by about 30 minutes. She said she was on pace to run her best time ever."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-207",
@@ -1217,7 +1459,9 @@
     "outputs": {
       "Summary": "Richard and angela maxwell became 10th on the national lottery rich list. The couple, from coningsby in lincolnshire, scooped $ 53,193,914 on the draw. Mrs maxwell thought her husband was playing an april fools' day joke on her."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-208",
@@ -1227,7 +1471,9 @@
     "outputs": {
       "Summary": "Jay has 735,000 followers and alexis an impressive 1.1 million. Their travels take them across the globe from california base to hawaii. Jay has even produced a youtube video to show his lifestyle."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-209",
@@ -1237,7 +1483,9 @@
     "outputs": {
       "Summary": "Amanda peake glover was also a co-owner of an elgin fitness center. Her friend ashley blocker says benji was just behind his wife of nine years in the palmetto half marathon. Amanda was a fitness lover and only a month before her death had run a full marathon with her brother."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-21",
@@ -1247,7 +1495,9 @@
     "outputs": {
       "Summary": "Liz smith claims iac chairman barry diller asked her in 1992 : `do you think i should come out?' But that he `worships' his wife diane von furstenberg. The gossip columnist claims she advised diller, the chairman of media company iac, against it. David geffen was gay in 1992."
     },
-    "score": 0.5
+    "score": {
+      "factual consistency": 0.5
+    }
   },
   {
     "id": "cnndm-210",
@@ -1257,7 +1507,9 @@
     "outputs": {
       "Summary": "Pluto and its largest moon, charon. The probe is due to make its closest approach to pluto on july 14. New horizons will shed light on a third zone of the solar system."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-211",
@@ -1267,7 +1519,9 @@
     "outputs": {
       "Summary": "Abdul hadi arwani, 48, a fierce critic of bashar al-assad, may have been assassinated by the regime in his home country. The father of six was found slumped in a volkswagen passat with wounds to his chest on a street in wembley on tuesday morning. His son was sentenced to death by assad's father."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-212",
@@ -1277,7 +1531,9 @@
     "outputs": {
       "Summary": "Emy afalava has been denied the right to vote because he should be a citizen. He was born in american samoa, a u.s. `` in the us,'' says he is no citizen. How can it be."
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-213",
@@ -1287,7 +1543,9 @@
     "outputs": {
       "Summary": "Robert durst, 71, pleaded not guilty thursday to two state gun charges in louisiana in a case that would delay his extradition to la to face murder charges. Durst entered his plea during an arraignment in a new orleans court on weapons charges that accused him of possessing a firearm after a felony conviction and possessing both a firearm. Durst is being held without bail in the mental ward of a state prison."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-214",
@@ -1297,7 +1555,9 @@
     "outputs": {
       "Summary": "Louis van gaal has won a battle to install floodlights at carrington training ground. The manchester united boss ordered a raft of improvements. Van gaal is keen to replicate match conditions during sessions."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-215",
@@ -1307,7 +1567,9 @@
     "outputs": {
       "Summary": "European union will accuse google of illegally abusing its supremacy on the internet search market. Google currently boasts a 90 per cent share in europe's search engine market. Google will have to probe google's operating system for android smartphones."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-216",
@@ -1317,7 +1579,9 @@
     "outputs": {
       "Summary": "Louis jordan, 37, was rescued by a storm in norfolk, virginia. The crew of the houston express container ship was a yacht. It was a man on it for help."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "cnndm-217",
@@ -1327,7 +1591,9 @@
     "outputs": {
       "Summary": "Frank knight settled before court proceedings with the owners of the championship's basement club. Supporters have been protesting against the oystons before matches and then not attending the games. Knight is a lifelong fan of the seasiders and was ordered to apologise for posting a disparaging status online this time last year."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-218",
@@ -1337,7 +1603,9 @@
     "outputs": {
       "Summary": "Dr xiao-ping zhai has been helping women conceive for decades using only traditional chinese medicine. She has used chinese medicine to help a thousand women become pregnant. Dr zhai's methods include acupuncture and prescribing a bespoke combination of chinese herbs."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-219",
@@ -1347,7 +1615,9 @@
     "outputs": {
       "Summary": "Alanna and stephen goetzinger lost their daughter during a stillbirth in 2012. The care given by the midwife who assisted at the birth in 2012 was `grossly inadequate' and may have contributed to the death of the baby. A coroner found that rana had died either `during or shortly after birth' from meconium aspiration, a condition where a foetus inhales their faeces before birth."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-22",
@@ -1357,7 +1627,9 @@
     "outputs": {
       "Summary": "Dmitry kaminskiy is hoping his million dollar gift will trigger a new group of `supercenternarians' he says research into stem cells, tissue rejuvenation and regenerative medicine will allow people to live beyond 120 - an age is the `real absolute limit to human lifespan' french born jeanne calment lived to age 122.5. She died in 1997. One of the oldest living today is jeralean talley."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-220",
@@ -1367,7 +1639,9 @@
     "outputs": {
       "Summary": "Matthew connolly has only been at the club for a month. Watford were made to sweat for the three points after 10-man nottingham forest. Almen abdi scored watford's third goal in second on goal difference."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-221",
@@ -1377,7 +1651,9 @@
     "outputs": {
       "Summary": "Maickel melamed was born with muscular dystrophy. He was the last participant to win the race before 5 a.m. tuesday. He is a venezuelan dystrophy."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "cnndm-222",
@@ -1387,7 +1663,9 @@
     "outputs": {
       "Summary": "U.s. district court judge jon tigar in san francisco ruled that denying sex reassignment surgery to michelle-lael norsworthy violates her constitutional rights. Norsworthy has been in prison since 1987, serving a life sentence for second-degree murder. She has twice delayed her scheduled parole hearings in recent months."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-223",
@@ -1397,7 +1675,9 @@
     "outputs": {
       "Summary": "Manny pacquiao paid a visit to the los angeles training camp. The ufc bantamweight title holder is in the lead up to the fight. Rousey said she was honoured to meet such a humble and genuine person."
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-224",
@@ -1407,7 +1687,9 @@
     "outputs": {
       "Summary": "Robbie fowler is among the names of best premier league strikers of all time. The former liverpool, leeds and manchester city hitman would go on to win 26 caps with england. But fowler is the only five players scoring more than his 162 goals."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-225",
@@ -1417,7 +1699,9 @@
     "outputs": {
       "Summary": "Over 300 people gathered at sydney harbour for a candlelight vigil in front of a huge flower wall reading' $keephopealive' on monday night. The blues point reserve gathering in sydney's north shore contained 15,000 flowers donated by amnesty international supporters. The two men are set to be executed just after the stroke midnight on wednesday."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-226",
@@ -1427,7 +1711,9 @@
     "outputs": {
       "Summary": "Michelle schwab has been charged with child endangerment after she allegedly dangled her child over the 10-foot-deep enclosure in cleveland metroparks zoo before he slipped and fell. She faces six months in jail and a $ 1,000 fine. The boy was rescued by his parents from the pit to retrieve the child, who was treated for a leg injury. He suffered from minor bumps and bruises and was listed in stable condition at the hospital."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-227",
@@ -1437,7 +1723,9 @@
     "outputs": {
       "Summary": "Residents from alderholt, dorset, woke to discover an easter egg on every doorstep. The easter bunny has delivered chocolate eggs to every house in a village of 3,000 people. Tracey residents said it was a wonderful act of random kindness."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-228",
@@ -1447,7 +1735,9 @@
     "outputs": {
       "Summary": "Former prime minister said he did not want to retire until he was 91 years old. Mr blair said he had been `mentored' by us president bill clinton when he took office in 1997. He said he wanted to recruit former heads of government to advise presidents and prime ministers on how to run their countries."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-229",
@@ -1457,7 +1747,9 @@
     "outputs": {
       "Summary": "Andreas lubitz : `german obsession with privacy let killer pilot fly' he says airlines to have mandatory access to pilots' medical records. German lawmaker says privacy laws were to blame for tragedy. Privacy laws let pilot hide illness from employers, he says."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "cnndm-23",
@@ -1467,7 +1759,9 @@
     "outputs": {
       "Summary": "Latest polls have two main parties locked on around 35 per cent. One bookie alone has taken five bets for more than $ 10,000 on david cameron's party to emerge with the most seats. Gambling industry experts say people expect mr cameron to remain prime minister."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-230",
@@ -1477,7 +1771,9 @@
     "outputs": {
       "Summary": "Aaron hernandez has pleaded not guilty to murder and two weapons charges. He was dating the sister of hernandez's fiancee. Hernandez is charged with lloyd's execution."
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-231",
@@ -1487,7 +1783,9 @@
     "outputs": {
       "Summary": "`` july 13th 2014 was the absolute worst day of my life,'' sierra sharry and lane smith. Sharry was eight months pregnant. Smith fell and hit his head."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-232",
@@ -1497,7 +1795,9 @@
     "outputs": {
       "Summary": "Kim sears will marry her long-term partner later this month. Kim and andy murray play against south african kevin anderson in their fourth round match. Kim was spotted working on her wedding tan during day 9 of the miami open."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-233",
@@ -1507,7 +1807,9 @@
     "outputs": {
       "Summary": "David beckham's 40th birthday is on saturday, 2 may and it is thought he will be staying at the five-star luxury amanjena resort, just outside marrakech. Amanjena resort amanjena is the first aman resort on the african continent and is located just outside the ancient city of marrakech. The star is expected to fly out to morocco for a five-star bash with his celebrity friends and family."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-234",
@@ -1517,7 +1819,9 @@
     "outputs": {
       "Summary": "Nyia parler, 41, has been hospitalized for undisclosed reasons in maryland ever since her son was found in a pile of wet leaves in cobb creek park. Police believe the man had been left in the woods all week - with nothing but a bible and a blanket - and was exposed to the rain and cold and to wild animals. Parler was initially charged with aggravated assault, kidnapping and neglect of a care-dependent person."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-24",
@@ -1527,7 +1831,9 @@
     "outputs": {
       "Summary": "Professor john warren discovered avocado trees switch from male to female in a matter of hours. During the day the trees grow in tropical and mediterranean climates, flower with their `female parts' ready to be pollinated by bees. Flowers close for the night and then the next morning they reopen - but now they use their `male anthers' to spread their pollen."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-25",
@@ -1537,7 +1843,9 @@
     "outputs": {
       "Summary": "Little catalina from america was filmed out the contents of the kitchen cabinets at home. But when her father tells her to clean up her mess at one point catalina's father's leg. Her father says her father is to do the cleaning."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "cnndm-26",
@@ -1547,7 +1855,9 @@
     "outputs": {
       "Summary": "Teaching watchdog is working on disciplinary cases against current and former staff members at some schools in birmingham where extremist islamic views were forced on pupils and staff. More than 50 teachers called the park view brotherhood, also alleged exchanged as many as 3,000 messages in a whatsapp group. This includes offensive comments about british soldiers and claimed the murder of soldier lee rigby was a hoax."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-27",
@@ -1557,7 +1867,9 @@
     "outputs": {
       "Summary": "The 21 year old has scored 13 league this season. Juventus have offered $ 23million for dybala, who admitted he would love to play alongside andrea pirlo. Palermo's paulo dybala has attracted interest from leading clubs in europe."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-28",
@@ -1567,7 +1879,9 @@
     "outputs": {
       "Summary": "Andy murray's mother judy has revealed that she can't wait for her son to have children with his new wife kim sears. She said that she will take an active part in their lives and can't teach them about tennis. Andy and kim married this weekend at a service in dunblane cathedral."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-29",
@@ -1577,7 +1891,9 @@
     "outputs": {
       "Summary": "In pakistan, free speech is dangerous. Mahmud died from five bullet wounds. She is expected to be released on time for her daughter's funeral."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-3",
@@ -1587,7 +1903,9 @@
     "outputs": {
       "Summary": "The new england patriots beat seattle seahawks 28-24 to win super bowl xlix in glendale, arizona with brady named as mvp for the third time in his fourth super bowl victory. The patriots said `prior family commitments' were the reason why brady didn't attend the white house on thursday. The president was a senator with 12 super bowl touchdown passes and completions on 37."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-30",
@@ -1597,7 +1915,9 @@
     "outputs": {
       "Summary": "Jimmy anderson was given a silver cap by mike atherton to mark his 100th test. The players and officials also wore black armbands to show their respect. Richie benaud died last week."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-31",
@@ -1607,7 +1927,9 @@
     "outputs": {
       "Summary": "Gabby giffords, 44, walked through the la airport using a cane on thursday. She was shot in the head by a gunman as she made a speech at a supermarket in tucson, arizona. Ms giffords is now an advocate for gun control."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-32",
@@ -1617,7 +1939,9 @@
     "outputs": {
       "Summary": "Arsene wenger has revealed he only makes the final decision on the morning of the match - and agonises over the selection all week. Arsenal manager has taken charge of 1,056 matches since his appointment in september 1996. Wenger said the selection process he uses to pick his arsenal team."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-33",
@@ -1627,7 +1951,9 @@
     "outputs": {
       "Summary": "Eintracht frankfurt hitman alexander meier is out for the season with a knee injury. Meier will have surgery on his patellar tendon on tuesday. Meier tops the bundesliga with 19 goals."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-34",
@@ -1637,7 +1963,9 @@
     "outputs": {
       "Summary": "The queen awards a victoria cross to lance corporal joshua leakey. The 27-year-old is the second member of his family to receive the highest military decoration for valour. It is the sixth time the queen has given a vc to a living, british recipient during her reign."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-35",
@@ -1647,7 +1975,9 @@
     "outputs": {
       "Summary": "Around 1.3 billion chinese people marked the qingming festival, a three-day holiday in china. The chinese mark the start of spring with outdoor celebrations. Huangdi is considered the ancestor of the `yellow emperor' festival."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-36",
@@ -1657,7 +1987,9 @@
     "outputs": {
       "Summary": "Schultz thought his dog missy suffered the same fate as his partner but after missy was spotted by a coned worker, police called schultz and reported the sighting. Missy first disappeared the family created a facebook page called, `the search for missy.' Two died in the storm after a deadly tornado hit illinois on thursday and killed his wife geraldine."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-37",
@@ -1667,7 +1999,9 @@
     "outputs": {
       "Summary": "An estimated 1,600 migrants have died so far this year on mediterranean crossing. A cnn producer filmed using a mobile phone and incentives to gather as many migrants. The smuggler was a senegalese and malian smuggler in tripoli."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-38",
@@ -1677,7 +2011,9 @@
     "outputs": {
       "Summary": "The red ribbon school is the only school in china equipped to look after and educate hiv-positive children. Kun kun contracted the virus from his mother when she was pregnant with him but was only diagnosed when he was five years old. His mother and stepfather signed a petition to banish him to `protect villagers' health' kun kun was refused admission to schools and locals would avoid contact with him, so he spent his days playing in the woods alone."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-39",
@@ -1687,7 +2023,9 @@
     "outputs": {
       "Summary": "Patrick randall was 16 in may 1990 when he held a knife to gregory smart's throat as his friend billy flynn, shot him in the head. Flynn was pamela smart's then-16-year-old lover and shot her husband dead at her request. Randall won parole thursday at his first hearing - he won't be released until after june 4."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-4",
@@ -1697,7 +2035,9 @@
     "outputs": {
       "Summary": "Nominations are open for cnn heroes 2015. Doyne, nepal, met women and children in nepal. The school is home to about 50 children."
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-40",
@@ -1707,7 +2047,9 @@
     "outputs": {
       "Summary": "Dashboard camera captured the unnamed driver travelling along a melbourne road when a red ute quickly cuts into the lane to turn right at an intersection. Moments later, the red ute appears to look frustrated at the slow moving traffic as they attempt to overtake by carelessly onto the wrong side of the road. Three young people got out to confront the threatened driver."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-41",
@@ -1717,7 +2059,9 @@
     "outputs": {
       "Summary": "Tigres monterrey scored two goals in queretaro's 4-0 win over club america. The 2002 world cup winner rolled back up to fourth in the clausura. Former barcelona forward ronaldinho beat monterrey team-mate emanuel villa."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "cnndm-42",
@@ -1727,7 +2071,9 @@
     "outputs": {
       "Summary": "Lisa and james tuttle thought their big house with a garden surrounded by arable land would be a peaceful family home. But their happiness was shattered in 2014 after their dogs marley and lily were shot dead by the farmer next door. Lily, centre, and marley, were killed as they were accused of killing his birds."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-43",
@@ -1737,7 +2083,9 @@
     "outputs": {
       "Summary": "Hull manager steve bruce has promised his wife janet he will go on a diet after unflattering paparazzi pictures of him on a barbados beach. Bruce fells his former club manchester united should do more to produce young english players. Bruce said he was `disappointed' that the pictures were published."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-44",
@@ -1747,7 +2095,9 @@
     "outputs": {
       "Summary": "Arizona is leading the way with plans to create artificial rain clouds by flying planes over the rockies and seeding the sky with silver iodide. The process of cloud seeding was first proposed in the 1940s at the general electric labs in schenectady, new york. Cap has put about $ 1 million toward research in other states to increase the supply of water in the colorado river system."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-45",
@@ -1757,7 +2107,9 @@
     "outputs": {
       "Summary": "Claudia martins gave birth alone at her sister's flat having kept her pregnancy secret from her family and friends. Paramedics were called after the 33-year-old, a portuguese national, was found sitting in the bath with' a lot of blood' and she was taken to hospital. Martins was acquitted by a jury of a single charge of murder but convicted of manslaughter by reason of diminished responsibility."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-46",
@@ -1767,7 +2119,9 @@
     "outputs": {
       "Summary": "Mehdi benatia was ruled out for four weeks with a hamstring injury. Bayern munich coach pep guardiola has only 14 healthy players at friday's practice. Bayern need four more wins to the bundesliga title."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-47",
@@ -1777,7 +2131,9 @@
     "outputs": {
       "Summary": "Dina nemtsova, 13, made her debut in a photoshoot with yulia prohorova white zoloto. Her mother and nemtsov's partner, ekaterina odintsova, says her new career will help her father's death. The teenage daughter of assassinated russian opposition leader has started a modelling career."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-48",
@@ -1787,7 +2143,9 @@
     "outputs": {
       "Summary": "Lewis hamilton sprayed champagne at her face after winning the chinese grand prix. Sexism campaigners called hamilton's behaviour `selfish' but siying said she didn't think too much about it at all. The british formula 1 racer drew criticism from around the world."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-49",
@@ -1797,7 +2155,9 @@
     "outputs": {
       "Summary": "Paul shorter had a series of liaisons with schoolgirl at rydens school. He kissed the teenager after class and groped her in his car. Shorter offender, 71, jailed in may last year after being convicted of indecent assaults between 1977 and 1984."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-5",
@@ -1807,7 +2167,9 @@
     "outputs": {
       "Summary": "One of australia's most loved cooks, lyndey milan, has teamed up with aldi to create easter lunch recipes that will easily feed six people for less than $ 6 each. Lyndey says her hot cross bun and easter egg bread & butter pudding with almond praline came in at $ 2 per person. The home cook icon put her skills to the test."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-50",
@@ -1817,7 +2179,9 @@
     "outputs": {
       "Summary": "Luis suarez scored his second goal for barcelona in the champions league quarter final. The barcelona forward scored a brace in his last 11 games. Suarez says he nutmegged paris saint-germain defender david luiz twice."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-51",
@@ -1827,7 +2191,9 @@
     "outputs": {
       "Summary": "Tony pulis returned to selhurst park for the first time since he left crystal palace. Alan pardew tried new ideas on the pitch to outwit pulis but an early goal from james morrison. West brom midfielder craig gardner won the premier league manager of the year award."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-52",
@@ -1837,7 +2203,9 @@
     "outputs": {
       "Summary": "Dogs have been found to detect prostate cancer with 98 per cent accuracy. Dog one got it right in 98.7 per cent of cases. Prostate cancer is the most common cancer in men in the uk."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-53",
@@ -1847,7 +2215,9 @@
     "outputs": {
       "Summary": "Ap mccoy won last year's race on pineau de re. Leighton aspell walked away from the sport for 18 months. He won the race with hedgehunter in 2005 and ballabriggs in 2011."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-54",
@@ -1857,7 +2227,9 @@
     "outputs": {
       "Summary": "Jurgen klopp will leave borussia dortmund at the end of the campaign. Brendan rodgers insists he is the man to guide liverpool to success. Liverpool manager is under pressure after fa cup semi-final defeat by aston villa."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-55",
@@ -1867,7 +2239,9 @@
     "outputs": {
       "Summary": "Miranda devine tweeted david pocock a `tosser' for celebrating a try using sign language. The australian super rugby team were on their way to a win against the highlanders at canberra stadium on friday night. Devine tweeted : `did pocock do jazz hands' but it wasn't hand shaking gesture."
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-56",
@@ -1877,7 +2251,9 @@
     "outputs": {
       "Summary": "Nurhayada sofia fell to her death after being dragged by an escalator at a shopping centre in malaysia. She was out shopping with her mother and sister at the kenanga wholesale city mall in pudu, malaysia. Nurhayada is expected to be buried in her father's hometown in muar."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-57",
@@ -1887,7 +2263,9 @@
     "outputs": {
       "Summary": "Tony pulis led his side to 2-0 win over crystal palace on saturday. West brom midfielder craig gardener shoots to score his side's second goal against crystal palace. West brom ended their run of 10 away games without a victory."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-58",
@@ -1897,7 +2275,9 @@
     "outputs": {
       "Summary": "The lamp uses a rechargeable battery and offers three hours of continuous light. The bridge is what links the app to the hi-tech bulbs. With it a user can control lights remotely to ward off burglars."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-59",
@@ -1907,7 +2287,9 @@
     "outputs": {
       "Summary": "Raheem sterling says he does not score enough goals and needs to focus on playing every week for liverpool. Paul scholes has advised sterling to stay at liverpool and continue to develop. Scholes says he is not ready to sign a new deal at liverpool."
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-6",
@@ -1917,7 +2299,9 @@
     "outputs": {
       "Summary": "The eyes of the nation were on the heir to the throne for the event on july 1, 1969, but behind prime minister harold wilson was convinced terrorists campaigning for welsh independence would target charles. The files show wilson's government approved plans to send officers from the met to wales to run a secret unit. The targets of the operation were members of the nationalist groups movement for the defence of wales."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-60",
@@ -1927,7 +2311,9 @@
     "outputs": {
       "Summary": "Nadine coyle and coleen rooney have joined forces with cancer research's race for life. The race raises money to encourage women from across the uk. The ladies have also lent their faces to the ad campaign for life."
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-61",
@@ -1937,7 +2323,9 @@
     "outputs": {
       "Summary": "Nasa has released an image taken by the probe's visual and infrared spectrometer revealing distinct features such as volcanic vents and fresh craters. The spacecraft is expected to smash into the planet's surface at 2.4 miles per second ( 3.9 km/s ). The event will take place on thursday 30 april after a four-year mission."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-62",
@@ -1947,7 +2335,9 @@
     "outputs": {
       "Summary": "Brendan rodgers' decision to ignore lambert sue off lambert's career. England striker played 90 minutes 20 times last season. Rickie lambert missed out on saturday at west brom."
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-63",
@@ -1957,7 +2347,9 @@
     "outputs": {
       "Summary": "Female soldiers and fighter pilots in action among the ranks of armed forces around the world, including in syria, pakistan and north korea. One image shows fighters from the free syrian army standing with their weapons as they undergo military training in aleppo. The images include a shot of us army soldier ssg norma gonzales of 426 civil affairs battalion waiting to be flown by helicopter to a base in kandahar, southern afghanistan."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-64",
@@ -1967,7 +2359,9 @@
     "outputs": {
       "Summary": "First minister forced to admit mps would vote for fiscal autonomy as next year. Nicola sturgeon said she would back calls for all tax powers to holyrood. Labour leader jim murphy warned this would leave a catastrophic hole."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-65",
@@ -1977,7 +2371,9 @@
     "outputs": {
       "Summary": "Dan poulter saw his weight fell from 105kg to 102.5 kg. His body fat fell from 24 per cent to 18 per cent. Tory health minister tom brake and labour frontbencher gavin shuker imposed strict cuts on their calories."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-66",
@@ -1987,7 +2383,9 @@
     "outputs": {
       "Summary": "The number of gps from abroad is up by 11 per cent in a decade. Foreigners now account for almost one family doctor in five. Doctors say the number will rise further over the next few years."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-67",
@@ -1997,7 +2395,9 @@
     "outputs": {
       "Summary": "Jordan spieth is the first start-to-finish winner at augusta in 39 years. The 21-year-old held his nerve in sunday's final round. Tiger woods' record of an 18-under 270 and four shots clear of the field."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-68",
@@ -2007,7 +2407,9 @@
     "outputs": {
       "Summary": "Maharashtra animal preservation bill bans on killing of bulls and bullocks. Two men charged in connection with slaughter of cow slaughter in malegaon. Police say it is only way to solve cow slaughter cases."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-69",
@@ -2017,7 +2419,9 @@
     "outputs": {
       "Summary": "Joe root was in grenada for the second match in a row england. Root was on his way to 182 not out in the morning session. His second highest score of his six hundreds to pass the 150 mark."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-7",
@@ -2027,7 +2431,9 @@
     "outputs": {
       "Summary": "Ap mccoy will race at sandown on saturday for the last time before he retires. The cheltenham gold cup winner has two rides at sandown. The jockey retires from professional racing for good."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-70",
@@ -2037,7 +2443,9 @@
     "outputs": {
       "Summary": "National secretary of the transport workers' union has condemned the requested change to the fair work act and accused aldi of trying to gain the right to force employees to work more than 38 hours a week. Aldi's last attempt to increase workers hours in 2012 failed and `strip workers of their rights' aldi has requested the ability to make employees work more. 38 hours in a workplace relations commission."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-71",
@@ -2047,7 +2455,9 @@
     "outputs": {
       "Summary": "The eggs were created as part of a feature for cake masters magazine - and feature in this month's edition. Each of the intricate treats is entirely edible and were made using a range of decorating techniques and sugar work. The detailed works of art were inspired by faberge's famous jewelled eggs, and painstakingly created by 14 of the uk's top cake."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-72",
@@ -2057,7 +2467,9 @@
     "outputs": {
       "Summary": "Thousands of voters have suggested landmarks across the city in devon to fill the space of old kent road. But no one has come forward with ideas for which streets should fill the brown sections of the board. Exeter has all previous cities to get their own board."
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-73",
@@ -2067,7 +2479,9 @@
     "outputs": {
       "Summary": "North korea's ruler was expected to join moscow on the 70th anniversary of the end of world war ii. The trip was to be kim's first official international trip since his father's death. Kremlin says the trip had been canceled."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-74",
@@ -2077,7 +2491,9 @@
     "outputs": {
       "Summary": "Google has released an update to its android software allowing owners to unlock their phone with their voice. Known as trusted voice, it can unlock a phone simply by hearing its owner say `ok, google' google admits the feature is not as secure as other password options. Google also offers an alternative way to unlock an android phone."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-75",
@@ -2087,7 +2503,9 @@
     "outputs": {
       "Summary": "Islamic extremists drove cars to mosque in remote village of kwajafa. They told locals they were there to teach islam. Jihadis opened fire using handguns and assault rifles."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-76",
@@ -2097,7 +2515,9 @@
     "outputs": {
       "Summary": "Chinese nuclear experts say pyongyang may already have as many as 20 nuclear warheads. Chinese estimate of 20 warheads is in a position to double its arsenal by next year with weapons-grade uranium. Plutonium program at yongbyon has no detectable heat signature or topographic profile."
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-77",
@@ -2107,7 +2527,9 @@
     "outputs": {
       "Summary": "Some members of the terrorist cell had direct contact with al qaeda leader osama bin laden before his death in 2011. The group planned to carry out terrorist attacks in afghanistan and pakistan as in italy. Some of the suspects were involved in a pakistani market bombing in 2009."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-78",
@@ -2117,7 +2539,9 @@
     "outputs": {
       "Summary": "Bayern munich crowned bundesliga champions for the third year running. Wolfsburg beat hertha berlin 1-0 on saturday to go 15 points clear. Pep guardiola's side have been crowned champions league next season."
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-79",
@@ -2127,7 +2551,9 @@
     "outputs": {
       "Summary": "Jack grealish inspired villa to fa cup semi-final victory over liverpool. Aston villa manager tim sherwood will not repeat his mistake. Grealish will be in villa's squad for the trip to manchester city."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-8",
@@ -2137,7 +2563,9 @@
     "outputs": {
       "Summary": "Alan pardew has no immediate plans to leave selhurst park for a table-topping side. Crystal palace have won six out of 10 league games. Alan pardew believes he is better than many of the premier league managers."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-80",
@@ -2147,7 +2575,9 @@
     "outputs": {
       "Summary": "Australia captain michael clarke believes kevin pietersen could play in this summer's ashes test series. The 34-year-old has not played for his country since the fifth test in sydney, a match england lost to a 5-0 series defeat. Downton has since left his role and pietersen will be the captain of the melbourne stars next year."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-81",
@@ -2157,7 +2587,9 @@
     "outputs": {
       "Summary": "Manchester city beat qpr 1-0 at old trafford on sunday. Sergio aguero scored 100 goals for manchester city in the 89th minute. Manuel pellegrini's side were beaten in the premier league table."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "cnndm-82",
@@ -2167,7 +2599,9 @@
     "outputs": {
       "Summary": "Petra wetzel, 40, a divorcee who lives in glasgow with her son, noah, nine. She set up her own business, the west brewery in 2006. He wanted to discuss importing it in bulk to italy."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-83",
@@ -2177,7 +2611,9 @@
     "outputs": {
       "Summary": "Neil robertson beat wales's jamie jones in the second round of the world championship. The 2010 champion beat qualifier matthew selt in a second round. Australia's neil robertson says it will give him a chance of the game."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "cnndm-84",
@@ -2187,7 +2623,9 @@
     "outputs": {
       "Summary": "Sheree morgan, 25, and sophie, 21, both of nelson, lancashire, allowed their bank accounts to be used to accept thousands of pounds in stolen money. The victims were conned out of over $ 36,000 over the telephone by a fraudster posing as a policeman. The couple, a man aged 86, and his 84-year old wife from cardiff in south wales were contacted by a sergeant falsely claiming they were about to fall victim to an eastern european crime gang who had got hold of their"
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-85",
@@ -2197,7 +2635,9 @@
     "outputs": {
       "Summary": "Marcus copeland, 44, splashed out almost $ 1million to complete the six eco house. He admitted two counts of fraud by lying to abbey national. He admitted lying on mortgage forms to secure more than $ 800,000."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-86",
@@ -2207,7 +2647,9 @@
     "outputs": {
       "Summary": "Jordan speith is in prime position to win the masters. He is playing with justin rose in the final. Spieth is the first player to beat for the top prize of $ 1.8 million at the $ 10 million event."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-87",
@@ -2217,7 +2659,9 @@
     "outputs": {
       "Summary": "Lady antebellum singer hillary scott's tour bus caught fire on texas freeway. Barnett said he didn't know what to expect. `` it was shocking,'' barnett said."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-88",
@@ -2227,7 +2671,9 @@
     "outputs": {
       "Summary": "The glasford school in illinois hosted one of several simulations put on by the american red cross to educate students on the dangers of drunk driving. The staged event on thursday used student actors playing accident victims and used real local police, fire and rescue personnel. Illini's brother, austin, died at age 17 in a 2011 non-alcohol-related automobile accident."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-89",
@@ -2237,7 +2683,9 @@
     "outputs": {
       "Summary": "England removed both west indies first in a opening session of the second test in grenada. Chris jordan had missed the ball before being dismissed caught behind off chris jordan. Play was delayed by an hour and 45 minutes after 11 overs lost in the day."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "cnndm-9",
@@ -2247,7 +2695,9 @@
     "outputs": {
       "Summary": "Warren sapp admits he paid for oral sex and that `everyone got naked' after he `put $ 600 on the table' in his hotel room. The two women who were arrested in phoenix along with sapp were britney osbourne, 23, and quying boyd. Sapp, 42, was charged with soliciting prostitution and two counts of assault in february."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-90",
@@ -2257,7 +2707,9 @@
     "outputs": {
       "Summary": "Prime minister said seven key tory policies would help get people on to the property ladder by building more homes and cutting cost of saving for a deposit. Tory leader set out seven point plan to promise voters `security at every stage of your life' tory leader said `dream of home ownership is alive' and will help build more houses. He said it will help a million people over parliament."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-91",
@@ -2267,7 +2719,9 @@
     "outputs": {
       "Summary": "Boko haram : isis, the self-anointed islamic state, is a strategy for the jihadi chiefs. They say the men' treatment of their female victims treat women in radical strategy. They say boko haram is one of the world's most popular islamist groups."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "cnndm-92",
@@ -2277,7 +2731,9 @@
     "outputs": {
       "Summary": "Myer has announced it is holding a 75 per cent of designer label sale from wednesday 22nd. The department store, which stocks top end australian labels including alex perry, toni maticevski, lisa ho as well as international labels balmain, will be offered second best a season. The move by myer has brokered deals for new designer collections."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-93",
@@ -2287,7 +2743,9 @@
     "outputs": {
       "Summary": "Natalia moon learned filipino language tagalog to score a role on sitcom ismol family. The darwin woman moved to the philippines in 2012 after struggling to find work as an actress in australia. Natalia moon is also a model who has been featured on magazine cousins in the philippines."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-94",
@@ -2297,7 +2755,9 @@
     "outputs": {
       "Summary": "President obama meets with u.s. surgeon general for national public health week. Climate change is emerging, but it's important to talk about greenhouse gas emissions and power plants. Climate change can be used to public health issues."
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-95",
@@ -2307,7 +2767,9 @@
     "outputs": {
       "Summary": "Manchester united host everton in the second half of the season. Louis van gaal is a poverty-stricken pauper's version of carrick. Borussia dortmund's ilkay gundogan has been linked with a move to old trafford."
     },
-    "score": 0.6666666666666666
+    "score": {
+      "factual consistency": 0.6666666666666666
+    }
   },
   {
     "id": "cnndm-96",
@@ -2317,7 +2779,9 @@
     "outputs": {
       "Summary": "16-year-old filmed throwing a kitten against a door and flushing it in the toilet. He claimed he was `accidentally' high on `white rhino' - super-strength cannabis. Owner sarah reeves given a ten-year ban from keeping animals."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-97",
@@ -2327,7 +2791,9 @@
     "outputs": {
       "Summary": "Jacob polyakov cracked his head on the floor after plunging off the edge of the sec `globe' centre in kiev, ukraine. His friend jamal maslow was at the shopping centre. Mr polyakov is in intensive care after he drunkenly slid down a glass shopping centre roof and crashed onto stone steps."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "cnndm-98",
@@ -2337,7 +2803,9 @@
     "outputs": {
       "Summary": "Charlene mess, 48, was arrested on monday after her husband of 30 years at their new york farm. His wife, douglas mess, 29, reported that his father had failed to show up to work on monday morning and had not been seen since 8pm on sunday. It took seven hours to locate mess' body, which was concealed in a mound of manure at the back of the farm."
     },
-    "score": 0.3333333333333333
+    "score": {
+      "factual consistency": 0.3333333333333333
+    }
   },
   {
     "id": "cnndm-99",
@@ -2347,7 +2815,9 @@
     "outputs": {
       "Summary": "The 44-year-old, named by locals as donna christie, slipped and fell from hassans fall lookout at lithgow on tuesday afternoon. She was bushwalking with a male friend and her two children, aged 12 and 13, when she dropped her phone at the lookout. She is believed to have suffered serious head, spinal and chest injuries when she plunged 30 metres."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-0",
@@ -2357,7 +2827,9 @@
     "outputs": {
       "Summary": "Two security guards have been threatened during a robbery at a bank in edinburgh."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-1",
@@ -2367,7 +2839,9 @@
     "outputs": {
       "Summary": "Big ben's 150th anniversary has been chosen as the date to celebrate london's history."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-10",
@@ -2377,7 +2851,9 @@
     "outputs": {
       "Summary": "Two rival street gangs in honduras have agreed to end their long-running war."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-100",
@@ -2387,7 +2863,9 @@
     "outputs": {
       "Summary": "The price of petrol and diesel has risen by more than 5p per litre in the past month, according to the latest figures."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-101",
@@ -2397,7 +2875,9 @@
     "outputs": {
       "Summary": "Indonesia's economy grew at an annual rate of 5.9 % in the last three months of 2016, its slowest pace since 2009."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-102",
@@ -2407,7 +2887,9 @@
     "outputs": {
       "Summary": "Plans for cardiff bay's first gondola service have been unveiled by cardiff city council."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-103",
@@ -2417,7 +2899,9 @@
     "outputs": {
       "Summary": "Former england seamer james tremlett has announced his retirement from cricket."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-104",
@@ -2427,7 +2911,9 @@
     "outputs": {
       "Summary": "Gloucestershire bowled glamorgan out for 220 on day one of their county championship match at cardiff."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-105",
@@ -2437,7 +2923,9 @@
     "outputs": {
       "Summary": "A welsh actor who plays darth vader in the latest star wars film has been honoured at the london film festival."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-106",
@@ -2447,7 +2935,9 @@
     "outputs": {
       "Summary": "Police in the italian city of milan have arrested four teenagers suspected of carrying out a series of robberies in the style of a clockwork orange."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-107",
@@ -2457,7 +2947,9 @@
     "outputs": {
       "Summary": "The pakistani government has condemned a us drone strike in north-west pakistan that killed at least 11 people, including a child."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-108",
@@ -2467,7 +2959,9 @@
     "outputs": {
       "Summary": "Morrisons has raised the price of marmite for the first time this year."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-109",
@@ -2477,7 +2971,9 @@
     "outputs": {
       "Summary": "Burkina faso coach paulo duarte says he is confident his players will be fit for next month's africa cup of nations."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-11",
@@ -2487,7 +2983,9 @@
     "outputs": {
       "Summary": "Oil prices have fallen sharply after the international energy agency ( iea ) said demand for the fuel is likely to have peaked."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-110",
@@ -2497,7 +2995,9 @@
     "outputs": {
       "Summary": "Talktalk has confirmed that three of its employees in india have been arrested on suspicion of hacking."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-111",
@@ -2507,7 +3007,9 @@
     "outputs": {
       "Summary": "A new system has been developed to allow trainee doctors to see their first live consultations."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-112",
@@ -2517,7 +3019,9 @@
     "outputs": {
       "Summary": "A young ukrainian woman who was the subject of a nude photo leak has become a lightning rod for criticism."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-113",
@@ -2527,7 +3031,9 @@
     "outputs": {
       "Summary": "Taiwan's foxconn has reported a 15 % rise in quarterly profits, helped by strong sales of iphones."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-114",
@@ -2537,7 +3043,9 @@
     "outputs": {
       "Summary": "The us senate has rejected a republican plan to repeal president barack obama's healthcare law."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-115",
@@ -2547,7 +3055,9 @@
     "outputs": {
       "Summary": "The chief executive of japanese advertising firm dentsu has said he will resign after a worker killed herself because of overwork."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-116",
@@ -2557,7 +3067,9 @@
     "outputs": {
       "Summary": "Newcastle falcons have re-signed england centre toby flood from leicester tigers."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-117",
@@ -2567,7 +3079,9 @@
     "outputs": {
       "Summary": "Google has begun rolling out the next version of its android operating system."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-118",
@@ -2577,7 +3091,9 @@
     "outputs": {
       "Summary": "An outbreak of measles in swansea and neath port talbot is putting thousands of children at risk, public health wales has warned."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-119",
@@ -2587,7 +3103,9 @@
     "outputs": {
       "Summary": "Prisons are becoming a `` punitive holding operation for people growing older and sicker behind bars'', says a report by the prison trust."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-12",
@@ -2597,7 +3115,9 @@
     "outputs": {
       "Summary": "Prosecutors in the mexican state of morelos have begun exhuming more than 100 bodies from a mass grave."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-120",
@@ -2607,7 +3127,9 @@
     "outputs": {
       "Summary": "Ireland have named sean o'brien in the starting xv for saturday's six nations game against scotland."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-121",
@@ -2617,7 +3139,9 @@
     "outputs": {
       "Summary": "England's laura massaro and nick matthew will meet in sunday's british open final after winning their semi-finals."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-122",
@@ -2627,7 +3151,9 @@
     "outputs": {
       "Summary": "Us president-elect donald trump has dismissed as `` ridiculous'' reports that the cia believes russia tried to influence the election."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-123",
@@ -2637,7 +3163,9 @@
     "outputs": {
       "Summary": "Hundreds of thousands of people have signed a petition calling on a us judge to reconsider his sentence for a sexual assault case."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-124",
@@ -2647,7 +3175,9 @@
     "outputs": {
       "Summary": "A strike by merseyrail conductors on the same day as the grand national has been announced by the rmt union."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-125",
@@ -2657,7 +3187,9 @@
     "outputs": {
       "Summary": "Airlines in nigeria are pulling out of the country due to a lack of foreign currency."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-126",
@@ -2667,7 +3199,9 @@
     "outputs": {
       "Summary": "A hospital where a patient died after being left on a trolley for hours has been told it must improve its a&e department."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-127",
@@ -2677,7 +3211,9 @@
     "outputs": {
       "Summary": "The fossilised remains of a coal miner's apple have been discovered in argentina."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-128",
@@ -2687,7 +3223,9 @@
     "outputs": {
       "Summary": "David cameron is to meet german chancellor angela merkel to discuss britain's future relationship with the eu."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-129",
@@ -2697,7 +3235,9 @@
     "outputs": {
       "Summary": "Chinese president xi jinping has arrived in hong kong for the 20th anniversary of its return to chinese control."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-13",
@@ -2707,7 +3247,9 @@
     "outputs": {
       "Summary": "The peace process in syria could collapse `` any time'', the un special envoy has warned."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-130",
@@ -2717,7 +3259,9 @@
     "outputs": {
       "Summary": "North korea says it has carried out a `` large-scale'' military drill near its border with south korea."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-131",
@@ -2727,7 +3271,9 @@
     "outputs": {
       "Summary": "A police investigation into the sexual exploitation of teenagers who went missing from care was `` limited and inconsistent'', a report has found."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-132",
@@ -2737,7 +3283,9 @@
     "outputs": {
       "Summary": "A man has been found not guilty by reason of insanity of attempting to murder a muslim man on a train."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-133",
@@ -2747,7 +3295,9 @@
     "outputs": {
       "Summary": "Police scotland's new control room in dumfries has performed `` to the satisfaction of the public'', a report has found."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-134",
@@ -2757,7 +3307,9 @@
     "outputs": {
       "Summary": "Schoolchildren from across wales are to take part in this year's bbc proms."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-135",
@@ -2767,7 +3319,9 @@
     "outputs": {
       "Summary": "West bromwich albion manager tony pulis says striker saido berahino is working hard to get fit."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-136",
@@ -2777,7 +3331,9 @@
     "outputs": {
       "Summary": "Train operator arriva trains wales has announced plans to increase capacity at cardiff central."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-137",
@@ -2787,7 +3343,9 @@
     "outputs": {
       "Summary": "Inverness caledonian thistle eased to victory over partick thistle at firhill."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-138",
@@ -2797,7 +3355,9 @@
     "outputs": {
       "Summary": "Wales fly-half sam davies will replace dan biggar in ospreys' european champions cup game against grenoble."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-139",
@@ -2807,7 +3367,9 @@
     "outputs": {
       "Summary": "A paramedic who squeezed a colleague's breast and asked for a hug has been suspended from the profession."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-14",
@@ -2817,7 +3379,9 @@
     "outputs": {
       "Summary": "Downgrading licence fee evasion to a civil offence would be a `` huge risk'' to the bbc, its director general has said."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-140",
@@ -2827,7 +3391,9 @@
     "outputs": {
       "Summary": "Celtic football fans have called for an independent inspection of the sellafield nuclear site."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-141",
@@ -2837,7 +3403,9 @@
     "outputs": {
       "Summary": "Fireworks displays in back gardens should be banned, a conservative mp has said."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-142",
@@ -2847,7 +3415,9 @@
     "outputs": {
       "Summary": "The partner of a man who died in a car crash has told a court she felt like she was `` in a washing machine''."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-143",
@@ -2857,7 +3427,9 @@
     "outputs": {
       "Summary": "A teenager who died of leukaemia at the age of 16 has been married in a hospital ward."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-144",
@@ -2867,7 +3439,9 @@
     "outputs": {
       "Summary": "A prominent ukrainian activist, olexander kalashnikov, has been found dead in his flat in the capital kiev."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-145",
@@ -2877,7 +3451,9 @@
     "outputs": {
       "Summary": "Qandeel baloch, the pakistani woman who became a social media sensation after posting a video of herself `` twerking'' in public, once said : `` i am not afraid of death."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-146",
@@ -2887,7 +3463,9 @@
     "outputs": {
       "Summary": "The bbc should have a dedicated books programme, according to author neil harris."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-147",
@@ -2897,7 +3475,9 @@
     "outputs": {
       "Summary": "Here is a selection of reaction to the high court ruling that abortion laws in northern ireland are incompatible."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-148",
@@ -2907,7 +3487,9 @@
     "outputs": {
       "Summary": "Ross county manager jim mcintyre has been nominated for the scottish football league manager of the year award."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-149",
@@ -2917,7 +3499,9 @@
     "outputs": {
       "Summary": "Leaders of the tour de france were stopped by police as they crossed a railway line to avoid a train."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-15",
@@ -2927,7 +3511,9 @@
     "outputs": {
       "Summary": "A beatles album sleeve designed by sir peter blake has topped a list of the most valuable rare records."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-150",
@@ -2937,7 +3523,9 @@
     "outputs": {
       "Summary": "Nigeria international defender kenneth omeruo has joined turkish top-flight side kasimpasa on a season-long loan from chelsea."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-151",
@@ -2947,7 +3535,9 @@
     "outputs": {
       "Summary": "Cardiff city manager neil warnock says he will not be rushing into a new contract for midfielder peter whittingham."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-152",
@@ -2957,7 +3547,9 @@
     "outputs": {
       "Summary": "The nepalese government has said it wants to tighten the rules on climbing mount everest."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-153",
@@ -2967,7 +3559,9 @@
     "outputs": {
       "Summary": "A new garden city in oxfordshire has been criticised for failing to provide superfast broadband."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-154",
@@ -2977,7 +3571,9 @@
     "outputs": {
       "Summary": "Dumfries and galloway council has `` generally met its objectives'' in supporting the development of the events sector, according to a new report."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-155",
@@ -2987,7 +3583,9 @@
     "outputs": {
       "Summary": "A coroner's report into the death of iranian blogger sattar beheshti has concluded that he died of shock."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-156",
@@ -2997,7 +3595,9 @@
     "outputs": {
       "Summary": "England won the women's six nations for the first time with a comfortable victory over ireland in dublin."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-157",
@@ -3007,7 +3607,9 @@
     "outputs": {
       "Summary": "A judge in brazil has lifted a ban on the building of a controversial hydro-electric dam in the amazon region."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-158",
@@ -3017,7 +3619,9 @@
     "outputs": {
       "Summary": "Cases of syphilis and gonorrhoea have risen sharply in england over the past five years, figures show."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-159",
@@ -3027,7 +3631,9 @@
     "outputs": {
       "Summary": "Two teenagers have been jailed for life for the murder of a drug dealer."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-16",
@@ -3037,7 +3643,9 @@
     "outputs": {
       "Summary": "A drone that can be controlled using the brain has been developed."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-160",
@@ -3047,7 +3655,9 @@
     "outputs": {
       "Summary": "Us conservative activist phyllis schlafly has died at the age of 87."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-161",
@@ -3057,7 +3667,9 @@
     "outputs": {
       "Summary": "A fossilised skeleton of a carnivorous dinosaur found in mongolia has been sold at auction."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-162",
@@ -3067,7 +3679,9 @@
     "outputs": {
       "Summary": "A man arrested in connection with a bomb attack on the borussia dortmund team bus was motivated by financial greed, german prosecutors say."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-163",
@@ -3077,7 +3691,9 @@
     "outputs": {
       "Summary": "Two dogs have died in a house fire in west belfast."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-164",
@@ -3087,7 +3703,9 @@
     "outputs": {
       "Summary": "Rihanna has teamed up with sir paul mccartney for a new single, four five seconds."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-165",
@@ -3097,7 +3715,9 @@
     "outputs": {
       "Summary": "Sam warburton says wales must take risks in saturday's test against new zealand in auckland."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-166",
@@ -3107,7 +3727,9 @@
     "outputs": {
       "Summary": "A consultation on plans to build more than 100,000 homes on greenbelt land in greater manchester has been delayed."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-167",
@@ -3117,7 +3739,9 @@
     "outputs": {
       "Summary": "Thousands of people have taken part in a protest in the jordanian capital, amman, against a new electoral law."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-168",
@@ -3127,7 +3751,9 @@
     "outputs": {
       "Summary": "A couple have been left `` completely penniless'' after their funeral company went out of business."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-169",
@@ -3137,7 +3763,9 @@
     "outputs": {
       "Summary": "A panel of experts has been appointed to investigate events at de la salle college."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-17",
@@ -3147,7 +3775,9 @@
     "outputs": {
       "Summary": "Northern ireland sprinter ciara foster has qualified for the women's 100m semi-finals at the commonwealth games in glasgow, but paralympic star jason smyth and sprinter ryan reid were eliminated."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-170",
@@ -3157,7 +3787,9 @@
     "outputs": {
       "Summary": "David cameron has announced plans for a global anti-corruption summit in london."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-171",
@@ -3167,7 +3799,9 @@
     "outputs": {
       "Summary": "The father of us intelligence leaker edward snowden has arrived in russia to discuss his son's legal options."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-172",
@@ -3177,7 +3811,9 @@
     "outputs": {
       "Summary": "Rescue teams in colombia are searching for survivors after a landslide killed at least 50 people in the western province of antioquia."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-173",
@@ -3187,7 +3823,9 @@
     "outputs": {
       "Summary": "Scottish secretary david russell has called for greater clarity about the uk government's brexit plans."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-174",
@@ -3197,7 +3835,9 @@
     "outputs": {
       "Summary": "The sinn f\u00e9in leader gerry adams has called for all parties supporting a united ireland to discuss how best to achieve it."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-175",
@@ -3207,7 +3847,9 @@
     "outputs": {
       "Summary": "Police in india have arrested nine people in connection with the collapse of a building in the western city of mumbai that killed 59 people."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-176",
@@ -3217,7 +3859,9 @@
     "outputs": {
       "Summary": "Francesco totti has signed a new two-year contract with roma."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-177",
@@ -3227,7 +3871,9 @@
     "outputs": {
       "Summary": "Malian troops have summarily executed at least 20 people in the central town of sevare, a rights group says."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-178",
@@ -3237,7 +3883,9 @@
     "outputs": {
       "Summary": "A court in france has ordered the liquidation of cross-channel ferry firm seafrance, with the loss of 1,000 jobs."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-179",
@@ -3247,7 +3895,9 @@
     "outputs": {
       "Summary": "The mother of a girl accused of being sexually abused by a gang of men has told a court her daughter's character changed from `` a lovely girl to an animal''."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-18",
@@ -3257,7 +3907,9 @@
     "outputs": {
       "Summary": "The progressive unionist party ( pup ) chairman, william `` plum'' smith, has died at the age of 83."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-180",
@@ -3267,7 +3919,9 @@
     "outputs": {
       "Summary": "The scottish government has announced a \u00a3 10m fund to help people made redundant by the oil and gas industry."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-181",
@@ -3277,7 +3931,9 @@
     "outputs": {
       "Summary": "A woman has been jailed for helping her husband hide more than \u00a3 200,000 in a garden."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-182",
@@ -3287,7 +3943,9 @@
     "outputs": {
       "Summary": "A pub in a devon village is to reopen as a free house after a community buyout."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-183",
@@ -3297,7 +3955,9 @@
     "outputs": {
       "Summary": "A top international olympic committee ( ioc ) official has apologised for comparing russian doping to the holocaust."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-184",
@@ -3307,7 +3967,9 @@
     "outputs": {
       "Summary": "Archaeologists believe they have uncovered evidence of a lost dark age kingdom in galloway."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-185",
@@ -3317,7 +3979,9 @@
     "outputs": {
       "Summary": "A celebration to mark the centenary of the birth of one of scotland's best-known artists is being held at skye college."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-186",
@@ -3327,7 +3991,9 @@
     "outputs": {
       "Summary": "Police in the us state of north dakota have arrested more than 100 people protesting against a controversial oil pipeline."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-187",
@@ -3337,7 +4003,9 @@
     "outputs": {
       "Summary": "Restrictions on the number of non-eu chefs being allowed to work in scottish curry houses have been described as `` total insanity''."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-188",
@@ -3347,7 +4015,9 @@
     "outputs": {
       "Summary": "A judge in the us state of ohio has ruled the trial of two ohio state university students accused of raping a girl will go ahead as planned."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-189",
@@ -3357,7 +4027,9 @@
     "outputs": {
       "Summary": "A 10,000-seater entertainment arena could be built in bristol as part of the city's regeneration zone."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-19",
@@ -3367,7 +4039,9 @@
     "outputs": {
       "Summary": "A police chief resigned from his post to appear on bbc question time."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-190",
@@ -3377,7 +4051,9 @@
     "outputs": {
       "Summary": "Tens of thousands of elderly people are being left waiting for care services they need, according to a charity."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-191",
@@ -3387,7 +4063,9 @@
     "outputs": {
       "Summary": "A teacher who sexually assaulted a 15-year-old girl at a school has been given a suspended sentence."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-192",
@@ -3397,7 +4075,9 @@
     "outputs": {
       "Summary": "Lewis hamilton said it was a `` very, very odd weekend'' as he failed to win the hungarian grand prix."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-193",
@@ -3407,7 +4087,9 @@
     "outputs": {
       "Summary": "Manchester united have agreed a deal to sign memphis depay from psv eindhoven."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-194",
@@ -3417,7 +4099,9 @@
     "outputs": {
       "Summary": "A man armed with a gun robbed a security guard outside a supermarket in birmingham."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-195",
@@ -3427,7 +4111,9 @@
     "outputs": {
       "Summary": "The republic of ireland's embassy in the united states raised concerns about the release of the quiet man because of its depiction of irish life."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-196",
@@ -3437,7 +4123,9 @@
     "outputs": {
       "Summary": "The bbc has confirmed it will shut down its global edition of the iplayer app on 26 june."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-197",
@@ -3447,7 +4135,9 @@
     "outputs": {
       "Summary": "Council tax bills could rise by an average of \u00a3 200 over the next five years, the local government association has warned."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-198",
@@ -3457,7 +4147,9 @@
     "outputs": {
       "Summary": "Hundreds of people have attended a memorial for a teenager who died while performing parkour in paris."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-199",
@@ -3467,7 +4159,9 @@
     "outputs": {
       "Summary": "Worcestershire put themselves in a strong position on day two against glamorgan."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-2",
@@ -3477,7 +4171,9 @@
     "outputs": {
       "Summary": "India's batsmen dominated the first day of the third and final test against south africa with an innings-and-96-run win."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-20",
@@ -3487,7 +4183,9 @@
     "outputs": {
       "Summary": "Thai police have cancelled the launch of a human rights watch ( hrw ) report at a foreign journalists' club in bangkok."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-200",
@@ -3497,7 +4195,9 @@
     "outputs": {
       "Summary": "It is `` more important than ever'' to spread the message of togetherness and unity at christmas, the first minister has said."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-201",
@@ -3507,7 +4207,9 @@
     "outputs": {
       "Summary": "David sweat, one of two inmates who escaped from a maximum security prison in new york, has been shot by police."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-202",
@@ -3517,7 +4219,9 @@
     "outputs": {
       "Summary": "Michael gove has said he accepts that being sacked by theresa may was the `` right thing to do''."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-203",
@@ -3527,7 +4231,9 @@
     "outputs": {
       "Summary": "The chief executive of australian airline qantas, alan joyce, has said he will campaign for the country to legalise same-sex marriage."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-204",
@@ -3537,7 +4243,9 @@
     "outputs": {
       "Summary": "A nursery worker mistook a four-year-old boy's spelling for the word `` cooker bomb'' and reported him to the authorities."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-205",
@@ -3547,7 +4255,9 @@
     "outputs": {
       "Summary": "A portrait by pablo picasso has become the most expensive painting to sell at auction in new york."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-206",
@@ -3557,7 +4267,9 @@
     "outputs": {
       "Summary": "More than \u00a3 400,000 has been wiped off the income of some welsh councils dealing with recycling services."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-207",
@@ -3567,7 +4279,9 @@
     "outputs": {
       "Summary": "The mother of caylee anthony, who was found dead in a florida swimming pool in 2011, says she has no regrets about her life."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-208",
@@ -3577,7 +4291,9 @@
     "outputs": {
       "Summary": "Oscar-winning actor matthew mcconaughey has surprised students at the university of texas by driving them home."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-209",
@@ -3587,7 +4303,9 @@
     "outputs": {
       "Summary": "A us marine has been found guilty of killing a transgender woman in the philippines."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-21",
@@ -3597,7 +4315,9 @@
     "outputs": {
       "Summary": "The co-operative group has said it is unlikely to declare any dividends before 2018."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-210",
@@ -3607,7 +4327,9 @@
     "outputs": {
       "Summary": "The world is the hardest place to be a girl, according to a new report by the charity save the children."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-211",
@@ -3617,7 +4339,9 @@
     "outputs": {
       "Summary": "An indian woman who says she was forced into marriage by her husband in pakistan has returned home."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-212",
@@ -3627,7 +4351,9 @@
     "outputs": {
       "Summary": "Us president barack obama has nominated a former deputy attorney general to be the next director of the fbi."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-213",
@@ -3637,7 +4363,9 @@
     "outputs": {
       "Summary": "A body found in a river was actually a sculpture, police have said."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-214",
@@ -3647,7 +4375,9 @@
     "outputs": {
       "Summary": "Isle of wight's historic castle is to undergo a major restoration project."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-215",
@@ -3657,7 +4387,9 @@
     "outputs": {
       "Summary": "The mother of a man who died after being dragged under a car has paid tribute to her `` beautiful'' son."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-216",
@@ -3667,7 +4399,9 @@
     "outputs": {
       "Summary": "The afghan taliban leader, mullah akhtar mansour, and his bodyguards have been shot dead in pakistan, officials say."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-217",
@@ -3677,7 +4411,9 @@
     "outputs": {
       "Summary": "Scotland's local authorities are ready to take in syrian refugees, according to the scottish councils association ( cosla )."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-218",
@@ -3687,7 +4423,9 @@
     "outputs": {
       "Summary": "More than a quarter of rail passengers are paying more for their journey than they need to, according to new research."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-219",
@@ -3697,7 +4435,9 @@
     "outputs": {
       "Summary": "The european commission is investigating whether the northern ireland executive is breaking eu rules on water charges."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-22",
@@ -3707,7 +4447,9 @@
     "outputs": {
       "Summary": "Former pupils who were injured during a loyalist protest in north belfast have been paid compensation."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-220",
@@ -3717,7 +4459,9 @@
     "outputs": {
       "Summary": "Ineos has said it is a step closer to restarting the kg ethylene cracker in grangemouth."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-221",
@@ -3727,7 +4471,9 @@
     "outputs": {
       "Summary": "Britain's andy murray reached the cincinnati open semi-finals with a straight-set win over canadian milos raonic."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-222",
@@ -3737,7 +4483,9 @@
     "outputs": {
       "Summary": "A bubble tea chain has promised to pay its trainees at least the minimum wage after it was criticised for offering free training."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-223",
@@ -3747,7 +4495,9 @@
     "outputs": {
       "Summary": "A 25-year-old man has been shot dead in sheffield."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-224",
@@ -3757,7 +4507,9 @@
     "outputs": {
       "Summary": "A cyclist who died after being involved in a crash with a truck has been named by police."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-225",
@@ -3767,7 +4519,9 @@
     "outputs": {
       "Summary": "Macclesfield's national league game against dover has been postponed because of heavy rain."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-226",
@@ -3777,7 +4531,9 @@
     "outputs": {
       "Summary": "There will be no reduction in the size of wales' forests, the environment minister has said."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-227",
@@ -3787,7 +4543,9 @@
     "outputs": {
       "Summary": "Three men who groomed a teenager into prostitution have been jailed."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-228",
@@ -3797,7 +4555,9 @@
     "outputs": {
       "Summary": "British number three aljaz bedene beat pablo carreno busta to reach the french open third round, where he will face world number one novak djokovic."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-229",
@@ -3807,7 +4567,9 @@
     "outputs": {
       "Summary": "A hacker has hijacked a large number of high-end printers."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-23",
@@ -3817,7 +4579,9 @@
     "outputs": {
       "Summary": "Us secretary of state john kerry has expressed `` serious concern'' over the militarisation of the south china sea."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-230",
@@ -3827,7 +4591,9 @@
     "outputs": {
       "Summary": "Paralympic gold medallist helen brown says she will not change her bow to qualify for the 2016 rio games."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-231",
@@ -3837,7 +4603,9 @@
     "outputs": {
       "Summary": "An islamic high school in birmingham has defended its decision to allow a female governor to sit out of sight of its male governors."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-232",
@@ -3847,7 +4615,9 @@
     "outputs": {
       "Summary": "Seabed rights for two wave demonstration zones off the welsh coast have been granted."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-233",
@@ -3857,7 +4627,9 @@
     "outputs": {
       "Summary": "A woman has been seriously injured after a lorry crashed into her flat in largs."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-234",
@@ -3867,7 +4639,9 @@
     "outputs": {
       "Summary": "Welsh secretary stephen crabb has said wales should be central to the debate on the future of the uk."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-235",
@@ -3877,7 +4651,9 @@
     "outputs": {
       "Summary": "The number of illegal immigrants detained or arrested at the uk's busiest port has more than doubled in a year, figures show."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-236",
@@ -3887,7 +4663,9 @@
     "outputs": {
       "Summary": "Deaf people are being discriminated against at work because they do not want to admit they are deaf, a charity has said."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-237",
@@ -3897,7 +4675,9 @@
     "outputs": {
       "Summary": "The future of bhs's pension scheme could be decided by the pension protection fund ( ppf )."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-238",
@@ -3907,7 +4687,9 @@
     "outputs": {
       "Summary": "Venezuelan acting president nicolas maduro has said he will keep the room where he was born as a shrine to late leader hugo chavez."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-24",
@@ -3917,7 +4699,9 @@
     "outputs": {
       "Summary": "Oil prices have risen above $ 50 a barrel for the first time this year."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-25",
@@ -3927,7 +4711,9 @@
     "outputs": {
       "Summary": "The guernsey states has spent more than \u00a3 1.1 m on advertising and promotion in the past year."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-26",
@@ -3937,7 +4723,9 @@
     "outputs": {
       "Summary": "A union has criticised the government for asking civil servants to stand in for striking border officials."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-27",
@@ -3947,7 +4735,9 @@
     "outputs": {
       "Summary": "A collection of 37 paintings by sir winston churchill has been accepted for the nation by his daughter."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-28",
@@ -3957,7 +4747,9 @@
     "outputs": {
       "Summary": "South africa's governing african national congress ( anc ) has condemned a cartoon depicting president jacob zuma as a `` womaniser''."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-29",
@@ -3967,7 +4759,9 @@
     "outputs": {
       "Summary": "Former england captain rio ferdinand's wife has died after a short battle with cancer."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-3",
@@ -3977,7 +4771,9 @@
     "outputs": {
       "Summary": "Former leyton orient striker dean cox says he will have to wait four months to play in the english football league."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-30",
@@ -3987,7 +4783,9 @@
     "outputs": {
       "Summary": "The uk's brexit secretary has said scotland will not be given new powers as part of any deal with the eu."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-31",
@@ -3997,7 +4795,9 @@
     "outputs": {
       "Summary": "Trench coats maker aquascutum is set to be sold for about \u00a3 100m."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-32",
@@ -4007,7 +4807,9 @@
     "outputs": {
       "Summary": "Swansea city's players paid for supporters' tickets for saturday's premier league game against hull city."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-33",
@@ -4017,7 +4819,9 @@
     "outputs": {
       "Summary": "The welsh government is `` paying the price'' for not doing enough to promote renewable energy, a business expert has said."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-34",
@@ -4027,7 +4831,9 @@
     "outputs": {
       "Summary": "The founder of italian football club ac milan should be honoured in nottingham, a writer has said."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-35",
@@ -4037,7 +4843,9 @@
     "outputs": {
       "Summary": "Plans to mark the 50th anniversary of the oldest carnival in europe have been announced."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-36",
@@ -4047,7 +4855,9 @@
     "outputs": {
       "Summary": "Hsbc has appointed the chief executive of asian insurer aia, alex tucker, as its new chairman."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-37",
@@ -4057,7 +4867,9 @@
     "outputs": {
       "Summary": "Tp mazembe of the democratic republic of congo beat bejaia of algeria 3-1 in lubumbashi on sunday to win the african confederation cup."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-38",
@@ -4067,7 +4879,9 @@
     "outputs": {
       "Summary": "A hospital trust has been rated as `` inadequate'' by health inspectors."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-39",
@@ -4077,7 +4891,9 @@
     "outputs": {
       "Summary": "Helen williams, who was asked to resign as miss america in 1984, has returned to the competition as a judge."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-4",
@@ -4087,7 +4903,9 @@
     "outputs": {
       "Summary": "A man who admitted downloading and viewing child pornography has been spared jail."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-40",
@@ -4097,7 +4915,9 @@
     "outputs": {
       "Summary": "The number of babies being breastfed by their mothers in england has more than doubled in the past 25 years, figures show."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-41",
@@ -4107,7 +4927,9 @@
     "outputs": {
       "Summary": "In the wake of the westminster terror attack, the public have been asking questions about how we can be more protected."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-42",
@@ -4117,7 +4939,9 @@
     "outputs": {
       "Summary": "Roger federer produced a stunning display to beat richard gasquet and win the fed cup final for switzerland in front of a record crowd in lille."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-43",
@@ -4127,7 +4951,9 @@
     "outputs": {
       "Summary": "Wales defender chris gunter says it would be a `` massive mistake'' to get complacent as they close in on euro 2016."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-44",
@@ -4137,7 +4963,9 @@
     "outputs": {
       "Summary": "Plans to sell off allotments in leatherhead to build 500 houses have been approved by a council."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-45",
@@ -4147,7 +4975,9 @@
     "outputs": {
       "Summary": "The number of syphilis cases in london has more than doubled in the past five years."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-46",
@@ -4157,7 +4987,9 @@
     "outputs": {
       "Summary": "A judge has declared a mistrial in the murder trial of a utah man who was shot in the head as a witness gave evidence."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-47",
@@ -4167,7 +4999,9 @@
     "outputs": {
       "Summary": "A suicide bomber has attacked a turkish military police station in the north-east of the country, killing at least five people, the army says."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-48",
@@ -4177,7 +5011,9 @@
     "outputs": {
       "Summary": "Jake cassidy's header earned hartlepool a draw at macclesfield in the national league."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-49",
@@ -4187,7 +5023,9 @@
     "outputs": {
       "Summary": "A five-year-old boy is in hospital with severe burns after stepping on a disposable barbecue which had exploded in the sand."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-5",
@@ -4197,7 +5035,9 @@
     "outputs": {
       "Summary": "The united states soccer federation has announced reforms aimed at protecting young players from concussion."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-50",
@@ -4207,7 +5047,9 @@
     "outputs": {
       "Summary": "The proportion of school leavers going on to a `` positive destination'' in scotland has risen to its highest ever level."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-51",
@@ -4217,7 +5059,9 @@
     "outputs": {
       "Summary": "A prominent russian journalist, alexander tsilikin, has been found stabbed to death in his home in st petersburg."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-52",
@@ -4227,7 +5071,9 @@
     "outputs": {
       "Summary": "French presidential candidate francois fillon has said he and his wife penelope have been questioned by police over claims she worked illegally."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-53",
@@ -4237,7 +5083,9 @@
     "outputs": {
       "Summary": "Greek prime minister alexis tsipras has been given the go-ahead for high-level talks with eu creditors over a new \u20ac 86bn ( \u00a3 70bn ) bailout."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-54",
@@ -4247,7 +5095,9 @@
     "outputs": {
       "Summary": "Scotland's children's commissioner has said there should be no stigma attached to the right to food."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-55",
@@ -4257,7 +5107,9 @@
     "outputs": {
       "Summary": "Irn bru, one of scotland's best-known soft drinks brands, is to have its sugar content reduced in the wake of the uk's sugar tax."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-56",
@@ -4267,7 +5119,9 @@
     "outputs": {
       "Summary": "Rugby's elite players deserve to be paid more, says the head of the players' union."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-57",
@@ -4277,7 +5131,9 @@
     "outputs": {
       "Summary": "Olympic silver medallist jamie swift has retired from skeleton."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-58",
@@ -4287,7 +5143,9 @@
     "outputs": {
       "Summary": "Ben murdoch-masila scored two tries as salford came from behind to beat super league leaders castleford."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-59",
@@ -4297,7 +5155,9 @@
     "outputs": {
       "Summary": "The deputy director of nicolas sarkozy's 2012 presidential campaign has said his party's finances were in a `` terrible spiral''."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-6",
@@ -4307,7 +5167,9 @@
     "outputs": {
       "Summary": "Astronomers have used a huge radio telescope in the us to get a detailed view of jupiter's atmosphere."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-60",
@@ -4317,7 +5179,9 @@
     "outputs": {
       "Summary": "A number of puppies have been seized in a `` shocking'' attempt to smuggle them into wales."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-61",
@@ -4327,7 +5191,9 @@
     "outputs": {
       "Summary": "Airbus has cut the number of a380 aircraft it plans to build this year because of delays in engine deliveries."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-62",
@@ -4337,7 +5203,9 @@
     "outputs": {
       "Summary": "A garden dedicated to the late pink floyd star syd barrett is to be built in the grounds of a hospital."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-63",
@@ -4347,7 +5215,9 @@
     "outputs": {
       "Summary": "Wreaths will be laid across the republic of ireland on monday to mark the centenary of the easter rising."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-64",
@@ -4357,7 +5227,9 @@
     "outputs": {
       "Summary": "Bastian schweinsteiger has been included in manchester united's squad for the europa league."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-65",
@@ -4367,7 +5239,9 @@
     "outputs": {
       "Summary": "Romania's prime minister sorin grindeanu has lost a vote of no confidence in the country's parliament."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-66",
@@ -4377,7 +5251,9 @@
     "outputs": {
       "Summary": "Azerbaijan has jailed leyla yunus, a prominent human rights activist, for 10 years for fraud."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-67",
@@ -4387,7 +5263,9 @@
     "outputs": {
       "Summary": "Alviro petersen became the first lancashire player to score a century on day one of a county championship match at lord's."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-68",
@@ -4397,7 +5275,9 @@
     "outputs": {
       "Summary": "A warwickshire magistrate who posted an anti-irish tweet is being investigated by police."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-69",
@@ -4407,7 +5287,9 @@
     "outputs": {
       "Summary": "Everton captain michael keane says the toffees need to `` toughen up'' following criticism from manager ronald koeman."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-7",
@@ -4417,7 +5299,9 @@
     "outputs": {
       "Summary": "The number of patients who failed to turn up for hospital appointments in scotland last year was at its highest since records began, according to new figures."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-70",
@@ -4427,7 +5311,9 @@
     "outputs": {
       "Summary": "This year could be the wettest on record in the uk, experts have warned."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-71",
@@ -4437,7 +5323,9 @@
     "outputs": {
       "Summary": "Ian fleming says anyone found guilty of match-fixing should be banned from tennis."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-72",
@@ -4447,7 +5335,9 @@
     "outputs": {
       "Summary": "The northern ireland assembly has rejected a call to reduce parking fines from \u00a3 90 to \u00a3 45."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-73",
@@ -4457,7 +5347,9 @@
     "outputs": {
       "Summary": "Ulster unionist leader mike nesbitt has said he `` wouldn't withdraw a word'' of what he said about the sdlp on monday."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-74",
@@ -4467,7 +5359,9 @@
     "outputs": {
       "Summary": "Scientists in the us have developed a stem cell therapy for brain tumours."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-75",
@@ -4477,7 +5371,9 @@
     "outputs": {
       "Summary": "A couple found dead in their garage were unlawfully killed, an inquest has heard."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-76",
@@ -4487,7 +5383,9 @@
     "outputs": {
       "Summary": "A holyrood committee has backed plans to legalise gay marriage in scotland."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-77",
@@ -4497,7 +5395,9 @@
     "outputs": {
       "Summary": "The us says it is suspending diplomatic talks with russia over the syrian conflict."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-78",
@@ -4507,7 +5407,9 @@
     "outputs": {
       "Summary": "North wales police and dyfed-powys police `` requires improvement'', inspectors have said."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-79",
@@ -4517,7 +5419,9 @@
     "outputs": {
       "Summary": "A warwickshire mp who was falsely accused of trading with the islamic state group has been awarded damages."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-8",
@@ -4527,7 +5431,9 @@
     "outputs": {
       "Summary": "Diageo, the world's biggest distiller of spirits, has reported a drop in sales in the last financial year."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-80",
@@ -4537,7 +5443,9 @@
     "outputs": {
       "Summary": "South korean team skt has won the 2016 league of legends ( lol ) world championship."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-81",
@@ -4547,7 +5455,9 @@
     "outputs": {
       "Summary": "Olympic bronze medallist aneurin bevan says he still has a `` small chance'' of competing at rio 2016 despite breaking his leg."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-82",
@@ -4557,7 +5467,9 @@
     "outputs": {
       "Summary": "A security firm has warned readers of the independent newspaper that they may have been infected with ransomware."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-83",
@@ -4567,7 +5479,9 @@
     "outputs": {
       "Summary": "The met office has issued an amber warning for flooding across northern ireland."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-84",
@@ -4577,7 +5491,9 @@
     "outputs": {
       "Summary": "The prime minister has said he will make extra money available to build a new stadium in cornwall."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-85",
@@ -4587,7 +5503,9 @@
     "outputs": {
       "Summary": "Staff at eastbourne general hospital have said they are `` devastated'' by plans to downgrade services."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-86",
@@ -4597,7 +5515,9 @@
     "outputs": {
       "Summary": "Kilcoo produced a superb second-half display to beat 10-man scotstown 1-13 to 0-11 in the ulster sfc semi-final."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-87",
@@ -4607,7 +5527,9 @@
     "outputs": {
       "Summary": "Iran's supreme leader, ayatollah ali khamenei, has said the country's policy towards the us will not change despite the nuclear deal."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-88",
@@ -4617,7 +5539,9 @@
     "outputs": {
       "Summary": "Scientists have developed a blood test which could help diagnose alzheimer's disease."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-89",
@@ -4627,7 +5551,9 @@
     "outputs": {
       "Summary": "Gary dunlop will make his ulster grand prix debut after recovering from a serious crash last year."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-9",
@@ -4637,7 +5563,9 @@
     "outputs": {
       "Summary": "Cyclist martyn irvine has been voted bbc northern ireland's sports personality of the year."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-90",
@@ -4647,7 +5575,9 @@
     "outputs": {
       "Summary": "Leeds city centre could be closed to through traffic in a bid to get more people walking and cycling around the city."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-91",
@@ -4657,7 +5587,9 @@
     "outputs": {
       "Summary": "Burton albion manager nigel clough says it will be `` frightening'' and `` exciting'' to lead the club back to the championship."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-92",
@@ -4667,7 +5599,9 @@
     "outputs": {
       "Summary": "Plaid cymru has called for an investigation into the welsh labour party after a councillor was accused of sharing propaganda."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-93",
@@ -4677,7 +5611,9 @@
     "outputs": {
       "Summary": "Police have said the discovery of an arms dump in county antrim could have `` saved lives''."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-94",
@@ -4687,7 +5623,9 @@
     "outputs": {
       "Summary": "Ciara mageean has been left out of the irish team for the european indoor athletics championships as she has already committed to a race."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-95",
@@ -4697,7 +5635,9 @@
     "outputs": {
       "Summary": "Wigan warriors will not appeal against the eight-game ban given to ben flower for punching st helens prop lance hohaia."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-96",
@@ -4707,7 +5647,9 @@
     "outputs": {
       "Summary": "Landowners have been given guidance on how to manage dog-walking on their land."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-97",
@@ -4717,7 +5659,9 @@
     "outputs": {
       "Summary": "Residents have said they are `` very angry'' a large fire on land owned by the council is still burning."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   },
   {
     "id": "xsum-98",
@@ -4727,7 +5671,9 @@
     "outputs": {
       "Summary": "Northern ireland striker david paterson said his side were to blame for their 2-0 defeat by azerbaijan in their final world cup qualifier."
     },
-    "score": 1.0
+    "score": {
+      "factual consistency": 1.0
+    }
   },
   {
     "id": "xsum-99",
@@ -4737,6 +5683,8 @@
     "outputs": {
       "Summary": "Great britain's helen glover and heather stanning won gold in the women's double sculls in rio."
     },
-    "score": 0.0
+    "score": {
+      "factual consistency": 0.0
+    }
   }
 ]
