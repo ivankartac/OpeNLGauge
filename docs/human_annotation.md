@@ -6,7 +6,11 @@ We’re using the RotoWire dataset (basketball domain) from [Thomson & Reiter (2
 
 ## Task Description
 
-Please go through all identified errors and corresponding explanations for the given data instance and mark the following categories:
+You will use a spreadsheet with a list of faithfulness errors in NLG outputs as identified by 3 different LLM evaluators. Input data and generated outputs are loaded in [[Factgenie](https://github.com/ufal/factgenie) URL].
+
+Please add your initials in the **annotator ID** column (rightmost) for one data instance, i.e. one NLG system output, coming from all 3 evaluators (all items with the same value in the leftmost ID column). Note that annotations from different evaluators are marked by changing colors of the ID column. The names of the LLM evaluators are anonymized.
+
+Please go through all identified errors and corresponding explanations for the given data instance, check them against the Factgenie data and the full text view, and mark the following categories:
 
 ### 1. Error span OK?
 
