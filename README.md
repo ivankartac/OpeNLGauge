@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ### Training Data
 
-The synthetic dataset used to train the distilled model can be found in `data/training/train_ensemble.json`. Each training example consists of the following fields:
+The synthetic dataset used to train the distilled model can be found in `data/training/train_ensemble_merged.json`. Each training example consists of the following fields:
 
 - `dataset`: name of the source dataset
 - `input_id`: unique id of the input in the source dataset
@@ -42,6 +42,8 @@ The synthetic dataset used to train the distilled model can be found in `data/tr
 - `task_name`: name of the task (e.g. "summarization", "data-to-text")
 - `extra_task_info`: extra information about the task
 - `evaluation`: generated evaluation of the output, consisting of error analysis and overall score (between 0 and 100)
+
+The file `data/training/train_ensemble_original.json` contains evaluation outputs of the individual prompted LLMs. The evaluations are postprocessed and parsed to a structured format.
 
 ### Meta-evaluation Datasets
 
