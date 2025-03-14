@@ -1,6 +1,6 @@
 # OpeNLGauge
 
-Code for the paper "OpeNLGauge: Building an Explainable Multi-Aspect Metric for NLG with Open-Weights LLMs Only"
+Code for the paper "OpeNLGauge: An Explainable Metric for NLG Evaluation with Open-Weights LLMs"
 
 ## Overview
 
@@ -95,4 +95,4 @@ Please check back soon for updates.
 
 ## License
 
-Licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+Licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
