@@ -1,6 +1,6 @@
 # OpeNLGauge
 
-Code for the paper "OpeNLGauge: An Explainable Metric for NLG Evaluation with Open-Weights LLMs"
+Code and resources for the INLG 2025 paper [OpeNLGauge: An Explainable Metric for NLG Evaluation with Open-Weights LLMs](https://aclanthology.org/2025.inlg-main.19/)
 
 ## Overview
 
@@ -96,3 +96,7 @@ Please check back soon for updates.
 ## License
 
 Licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+## Acknowledgements
+
+This work was supported by the European Research Council (Grant agreement No. 101039303, NG-NLG) and the National Recovery Plan funded project MPO 60273/24/21300/21000 CEDMO 2.0 NPO. It used resources of the LINDAT/CLARIAH-CZ Research Infrastructure (Czech Ministry of Education, Youth, and Sports project No. LM2018101).
